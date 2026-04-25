@@ -1,5 +1,5 @@
 export default interface Spec {
-  slug: string;
+  key: string;
   name: string;
   weight: number;
   type?: 'feature' | 'bundle-size' | 'performance';

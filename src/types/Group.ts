@@ -1,7 +1,7 @@
 import type Match from './Match';
 
 export default interface Group {
-  slug: string;
+  key: string;
   name: string;
   matches?: Match[];
 }

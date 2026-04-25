@@ -20,7 +20,7 @@ function buildMenuItems(): ItemType[] {
       label: group.name,
       children: group.matches.map(
         (match): MenuItemType => ({
-          key: `/${group.slug}/${match.slug}`,
+          key: `/${group.key}/${match.key}`,
           label: match.name,
         }),
       ),

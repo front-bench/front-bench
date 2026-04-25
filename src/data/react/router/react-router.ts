@@ -1,7 +1,7 @@
 import type Candidate from '../../../types/Candidate';
 
 const reactRouter: Candidate = {
-  slug: 'react-router',
+  key: 'react-router',
   name: 'React Router',
 };
 

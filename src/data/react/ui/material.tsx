@@ -1,12 +1,12 @@
 import type Candidate from '../../../types/Candidate';
 
 const material: Candidate = {
-  slug: 'material',
+  key: 'material',
   name: 'Material UI',
   version: '9.x',
   results: [
     {
-      slug: 'button-bundle-size',
+      key: 'button-bundle-size',
       value: 12345, // Example bundle size in bytes
       score: 0.8, // Example score based on bundle size (lower is better)
     },

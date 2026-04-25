@@ -1,7 +1,7 @@
 import type Group from '../../types/Group';
 
 const node: Group = {
-  slug: 'node',
+  key: 'node',
   name: 'Node.js',
 };
 

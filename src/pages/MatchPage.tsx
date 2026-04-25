@@ -14,8 +14,8 @@ interface MatchPageProps {
 }
 
 export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
-  const group = groups.find((g) => g.slug === groupSlug);
-  const match = group?.matches?.find((m) => m.slug === matchSlug);
+  const group = groups.find((g) => g.key === groupSlug);
+  const match = group?.matches?.find((m) => m.key === matchSlug);
 
   if (!group || !match) {
     return (
@@ -29,9 +29,9 @@ export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
   const candidates = match.candidates ?? [];
 
   const rows: SpecRow[] = specs.map((spec) => ({
-    key: spec.slug,
+    key: spec.key,
     specName: spec.name,
-    specSlug: spec.slug,
+    specSlug: spec.key,
   }));
 
   const columns: ColumnsType<SpecRow> = [
@@ -44,9 +44,9 @@ export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
     },
     ...candidates.map((candidate) => ({
       title: candidate.version ? `${candidate.name} (${candidate.version})` : candidate.name,
-      key: candidate.slug,
+      key: candidate.key,
       render: (_value: unknown, row: SpecRow) => {
-        const result = candidate.results?.find((item) => item.slug === row.specSlug);
+        const result = candidate.results?.find((item) => item.key === row.specSlug);
         if (!result) {
           return <Typography.Text type="secondary">-</Typography.Text>;
         }

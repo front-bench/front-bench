@@ -2,7 +2,7 @@ import type Match from '../../../types/Match';
 import reactRouter from './react-router';
 
 const router: Match = {
-  slug: 'router',
+  key: 'router',
   name: 'Router Libraries',
   candidates: [reactRouter],
 };

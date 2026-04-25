@@ -1,5 +1,5 @@
 export interface Result {
-  slug: string;
+  key: string;
   value: number;
   score: number;
 }

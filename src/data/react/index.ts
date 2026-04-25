@@ -3,7 +3,7 @@ import router from './router';
 import ui from './ui';
 
 const react: Group = {
-  slug: 'react',
+  key: 'react',
   name: 'React',
   matches: [ui, router],
 };

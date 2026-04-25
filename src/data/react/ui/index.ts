@@ -3,12 +3,12 @@ import antd from './antd';
 import material from './material';
 
 const ui: Match = {
-  slug: 'ui',
+  key: 'ui',
   name: 'UI Libraries',
   candidates: [antd, material],
   specs: [
     {
-      slug: 'button-bundle-size',
+      key: 'button-bundle-size',
       name: 'Button: Bundle Size',
       weight: 0.5,
     },
