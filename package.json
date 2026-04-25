@@ -33,7 +33,8 @@
   "prettier": "prettier-config-ali",
   "dependencies": {
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.5",
+    "wouter": "^3.9.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
