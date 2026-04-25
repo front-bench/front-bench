@@ -3,6 +3,7 @@ import type Candidate from '../../../types/Candidate';
 const material: Candidate = {
   slug: 'material',
   name: 'Material UI',
+  version: '9.x',
   results: [
     {
       slug: 'button-bundle-size',
