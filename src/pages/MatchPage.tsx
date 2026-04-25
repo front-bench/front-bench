@@ -5,17 +5,17 @@ import groups from '../data';
 interface SpecRow {
   key: string;
   specName: string;
-  specSlug: string;
+  specKey: string;
 }
 
 interface MatchPageProps {
-  groupSlug: string;
-  matchSlug: string;
+  groupKey: string;
+  matchKey: string;
 }
 
-export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
-  const group = groups.find((g) => g.key === groupSlug);
-  const match = group?.matches?.find((m) => m.key === matchSlug);
+export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
+  const group = groups.find((g) => g.key === groupKey);
+  const match = group?.matches?.find((m) => m.key === matchKey);
 
   if (!group || !match) {
     return (
@@ -31,7 +31,7 @@ export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
   const rows: SpecRow[] = specs.map((spec) => ({
     key: spec.key,
     specName: spec.name,
-    specSlug: spec.key,
+    specKey: spec.key,
   }));
 
   const columns: ColumnsType<SpecRow> = [
@@ -46,7 +46,7 @@ export default function MatchPage({ groupSlug, matchSlug }: MatchPageProps) {
       title: candidate.version ? `${candidate.name} (${candidate.version})` : candidate.name,
       key: candidate.key,
       render: (_value: unknown, row: SpecRow) => {
-        const result = candidate.results?.find((item) => item.key === row.specSlug);
+        const result = candidate.results?.find((item) => item.key === row.specKey);
         if (!result) {
           return <Typography.Text type="secondary">-</Typography.Text>;
         }

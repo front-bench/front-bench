@@ -8,8 +8,8 @@ function App() {
     <AppLayout>
       <Switch>
         <Route path="/" component={HomePage} />
-        <Route path="/:groupSlug/:matchSlug">
-          {(params) => <MatchPage groupSlug={params.groupSlug} matchSlug={params.matchSlug} />}
+        <Route path="/:groupKey/:matchKey">
+          {(params) => <MatchPage groupKey={params.groupKey} matchKey={params.matchKey} />}
         </Route>
       </Switch>
     </AppLayout>
