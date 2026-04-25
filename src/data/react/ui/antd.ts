@@ -7,8 +7,7 @@ const antd: Candidate = {
   results: [
     {
       key: 'button-bundle-size',
-      value: 12345, // Example bundle size in bytes
-      score: 0.8, // Example score based on bundle size (lower is better)
+      value: 12345,
     },
   ],
 };
