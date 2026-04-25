@@ -1,10 +1,11 @@
 import type Match from '../../../types/Match';
 import antd from './antd';
+import material from './material';
 
 const ui: Match = {
   slug: 'ui',
   name: 'UI Libraries',
-  candidates: [antd],
+  candidates: [antd, material],
   specs: [
     {
       slug: 'button-bundle-size',
