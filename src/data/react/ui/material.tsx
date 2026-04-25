@@ -1,9 +1,8 @@
 import type Candidate from '../../../types/Candidate';
 
-const antd: Candidate = {
-  slug: 'antd',
-  name: 'Ant Design',
-  version: '6.x',
+const material: Candidate = {
+  slug: 'material',
+  name: 'Material UI',
   results: [
     {
       slug: 'button-bundle-size',
@@ -13,4 +12,4 @@ const antd: Candidate = {
   ],
 };
 
-export default antd;
+export default material;
