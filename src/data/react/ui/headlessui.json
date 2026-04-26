@@ -109,6 +109,11 @@
       "reference": "https://headlessui.com/react/listbox"
     },
     {
+      "key": "scroll-shadow-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://headlessui.com/react/switch"

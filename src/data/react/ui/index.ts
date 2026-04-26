@@ -210,6 +210,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'scroll-shadow-component',
+      name: 'ScrollShadow Component',
+      type: 'feature',
+    },
+    {
       key: 'speed-dial-component',
       name: 'SpeedDial Component',
       type: 'feature',

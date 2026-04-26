@@ -109,6 +109,11 @@
       "reference": "https://mantine.dev/core/select/"
     },
     {
+      "key": "scroll-shadow-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/scroll-area/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://mantine.dev/core/switch/"

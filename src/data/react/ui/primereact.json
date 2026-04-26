@@ -109,6 +109,11 @@
       "reference": "https://primereact.org/select/"
     },
     {
+      "key": "scroll-shadow-component",
+      "value": 0,
+      "reference": "https://primereact.org/scrollpanel/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://primereact.org/inputswitch/"

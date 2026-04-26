@@ -109,6 +109,11 @@
       "reference": "https://mui.com/material-ui/react-select/"
     },
     {
+      "key": "scroll-shadow-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-box/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-switch/"
