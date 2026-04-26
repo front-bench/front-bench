@@ -260,6 +260,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'time-picker-component',
+      name: 'TimePicker Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

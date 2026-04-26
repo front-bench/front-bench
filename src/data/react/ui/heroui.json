@@ -64,6 +64,11 @@
       "reference": "https://www.heroui.com/docs/components/table"
     },
     {
+      "key": "time-picker-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/time-input"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/checkbox"

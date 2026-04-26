@@ -64,6 +64,11 @@
       "reference": "https://ant.design/components/table"
     },
     {
+      "key": "time-picker-component",
+      "value": 1,
+      "reference": "https://ant.design/components/time-picker"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://ant.design/components/checkbox"

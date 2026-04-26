@@ -64,6 +64,11 @@
       "reference": "https://react-aria.adobe.com/Table"
     },
     {
+      "key": "time-picker-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/TimeField"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Checkbox"

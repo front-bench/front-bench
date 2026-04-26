@@ -64,6 +64,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/table"
     },
     {
+      "key": "time-picker-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/checkbox"

@@ -64,6 +64,11 @@
       "reference": "https://mantine.dev/core/table/"
     },
     {
+      "key": "time-picker-component",
+      "value": 1,
+      "reference": "https://mantine.dev/dates/time-input/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://mantine.dev/core/checkbox/"

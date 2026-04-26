@@ -64,6 +64,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/table"
     },
     {
+      "key": "time-picker-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"

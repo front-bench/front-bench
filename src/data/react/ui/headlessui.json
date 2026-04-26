@@ -64,6 +64,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "time-picker-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://headlessui.com/react/checkbox"

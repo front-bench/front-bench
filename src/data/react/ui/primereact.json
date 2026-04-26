@@ -64,6 +64,11 @@
       "reference": "https://primereact.org/datatable/"
     },
     {
+      "key": "time-picker-component",
+      "value": 1,
+      "reference": "https://primereact.org/calendar/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://primereact.org/checkbox/"
