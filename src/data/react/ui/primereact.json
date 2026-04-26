@@ -114,6 +114,11 @@
       "reference": "https://primereact.org/calendar/"
     },
     {
+      "key": "date-range-picker-component",
+      "value": 1,
+      "reference": "https://primereact.org/calendar/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://primereact.org/card/"

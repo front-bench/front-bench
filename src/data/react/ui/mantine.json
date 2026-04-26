@@ -114,6 +114,11 @@
       "reference": "https://mantine.dev/dates/date-picker/"
     },
     {
+      "key": "date-range-picker-component",
+      "value": 1,
+      "reference": "https://mantine.dev/dates/date-picker-input/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mantine.dev/core/card/"

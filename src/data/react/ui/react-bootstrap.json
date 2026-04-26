@@ -114,6 +114,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
     },
     {
+      "key": "date-range-picker-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/cards"

@@ -114,6 +114,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "date-range-picker-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://headlessui.com/react"

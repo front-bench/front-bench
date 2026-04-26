@@ -155,6 +155,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'date-range-picker-component',
+      name: 'DateRangePicker Component',
+      type: 'feature',
+    },
+    {
       key: 'card-component',
       name: 'Card Component',
       type: 'feature',

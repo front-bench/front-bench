@@ -114,6 +114,11 @@
       "reference": "https://react-aria.adobe.com/DatePicker"
     },
     {
+      "key": "date-range-picker-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/DateRangePicker"
+    },
+    {
       "key": "card-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"
