@@ -19,6 +19,11 @@
       "reference": "https://react-aria.adobe.com/"
     },
     {
+      "key": "form-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Form"
+    },
+    {
       "key": "speed-dial-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

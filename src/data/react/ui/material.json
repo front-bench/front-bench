@@ -19,6 +19,11 @@
       "reference": "https://mui.com/material-ui/react-floating-action-button/"
     },
     {
+      "key": "form-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-text-field/"
+    },
+    {
       "key": "speed-dial-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-speed-dial/"

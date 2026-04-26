@@ -150,6 +150,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'form-component',
+      name: 'Form Component',
+      type: 'feature',
+    },
+    {
       key: 'input-component',
       name: 'Input Component',
       type: 'feature',
