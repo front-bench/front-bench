@@ -47,6 +47,11 @@
       "key": "input-component",
       "value": 1,
       "reference": "https://headlessui.com/react/input"
+    },
+    {
+      "key": "radio-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/radio-group"
     }
   ]
 }

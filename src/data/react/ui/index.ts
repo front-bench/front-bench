@@ -89,6 +89,11 @@ const ui: Match = {
       name: 'Input Component',
       type: 'feature',
     },
+    {
+      key: 'radio-component',
+      name: 'Radio Component',
+      type: 'feature',
+    },
   ],
 };
 

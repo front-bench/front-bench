@@ -47,6 +47,11 @@
       "key": "input-component",
       "value": 1,
       "reference": "https://mantine.dev/core/text-input/"
+    },
+    {
+      "key": "radio-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/radio/"
     }
   ]
 }

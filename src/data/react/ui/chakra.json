@@ -47,6 +47,11 @@
       "key": "input-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/input"
+    },
+    {
+      "key": "radio-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/radio"
     }
   ]
 }

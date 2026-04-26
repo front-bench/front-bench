@@ -47,6 +47,11 @@
       "key": "input-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-text-field/"
+    },
+    {
+      "key": "radio-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-radio-button/"
     }
   ]
 }

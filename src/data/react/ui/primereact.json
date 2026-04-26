@@ -47,6 +47,11 @@
       "key": "input-component",
       "value": 1,
       "reference": "https://primereact.org/inputtext/"
+    },
+    {
+      "key": "radio-component",
+      "value": 1,
+      "reference": "https://primereact.org/radiobutton/"
     }
   ]
 }
