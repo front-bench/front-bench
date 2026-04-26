@@ -185,6 +185,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'grid-component',
+      name: 'Grid Component',
+      type: 'feature',
+    },
+    {
       key: 'input-component',
       name: 'Input Component',
       type: 'feature',

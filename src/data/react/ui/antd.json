@@ -314,6 +314,11 @@
       "reference": "https://ant.design/components/layout"
     },
     {
+      "key": "grid-component",
+      "value": 1,
+      "reference": "https://ant.design/components/grid"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://ant.design/components/card"

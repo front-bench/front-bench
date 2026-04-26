@@ -314,6 +314,11 @@
       "reference": "https://mantine.dev/core/container/"
     },
     {
+      "key": "grid-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/grid/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mantine.dev/core/card/"

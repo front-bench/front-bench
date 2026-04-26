@@ -314,6 +314,11 @@
       "reference": "https://react-bootstrap.github.io/docs/layout/grid#containers"
     },
     {
+      "key": "grid-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/layout/grid"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/cards"

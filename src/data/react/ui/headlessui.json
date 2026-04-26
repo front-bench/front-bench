@@ -314,6 +314,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "grid-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://headlessui.com/react"

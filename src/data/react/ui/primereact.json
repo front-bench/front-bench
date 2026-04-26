@@ -314,6 +314,11 @@
       "reference": "https://primereact.org/"
     },
     {
+      "key": "grid-component",
+      "value": 0,
+      "reference": "https://primereact.org/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://primereact.org/card/"

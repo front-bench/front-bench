@@ -314,6 +314,11 @@
       "reference": "https://mui.com/material-ui/react-container/"
     },
     {
+      "key": "grid-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-grid/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-card/"
