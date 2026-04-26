@@ -290,6 +290,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'tooltip-component',
+      name: 'Tooltip Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',
