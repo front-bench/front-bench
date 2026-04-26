@@ -59,6 +59,11 @@
       "reference": "https://ant.design/components/tabs"
     },
     {
+      "key": "toolbar-component",
+      "value": 0,
+      "reference": "https://ant.design/components"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://ant.design/components/table"

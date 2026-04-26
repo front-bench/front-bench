@@ -275,6 +275,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'toolbar-component',
+      name: 'Toolbar Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

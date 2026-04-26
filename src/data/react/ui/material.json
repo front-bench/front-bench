@@ -59,6 +59,11 @@
       "reference": "https://mui.com/material-ui/react-tabs/"
     },
     {
+      "key": "toolbar-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-app-bar/#toolbar"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-table/"

@@ -59,6 +59,11 @@
       "reference": "https://headlessui.com/react/tabs"
     },
     {
+      "key": "toolbar-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "table-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

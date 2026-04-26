@@ -59,6 +59,11 @@
       "reference": "https://react-aria.adobe.com/Tabs"
     },
     {
+      "key": "toolbar-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Toolbar"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Table"

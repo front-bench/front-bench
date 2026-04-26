@@ -59,6 +59,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/tabs"
     },
     {
+      "key": "toolbar-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/button-group/#button-toolbar"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/table"

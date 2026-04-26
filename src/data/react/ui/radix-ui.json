@@ -59,6 +59,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/tabs"
     },
     {
+      "key": "toolbar-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/table"

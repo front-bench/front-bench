@@ -59,6 +59,11 @@
       "reference": "https://mantine.dev/core/tabs/"
     },
     {
+      "key": "toolbar-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/"
+    },
+    {
       "key": "table-component",
       "value": 1,
       "reference": "https://mantine.dev/core/table/"
