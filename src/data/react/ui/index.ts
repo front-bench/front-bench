@@ -220,6 +220,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'layout-component',
+      name: 'Layout Component',
+      type: 'feature',
+    },
+    {
       key: 'list-component',
       name: 'List Component',
       type: 'feature',

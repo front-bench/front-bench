@@ -159,6 +159,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/text-field"
     },
     {
+      "key": "layout-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@radix-ui/themes"
+    },
+    {
       "key": "list-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

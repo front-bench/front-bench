@@ -159,6 +159,11 @@
       "reference": "https://mui.com/material-ui/react-text-field/"
     },
     {
+      "key": "layout-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@mui/material"
+    },
+    {
       "key": "list-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-list/"

@@ -159,6 +159,11 @@
       "reference": "https://primereact.org/password/"
     },
     {
+      "key": "layout-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/primereact"
+    },
+    {
       "key": "list-component",
       "value": 1,
       "reference": "https://primereact.org/listbox/"

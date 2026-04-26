@@ -159,6 +159,11 @@
       "reference": "https://ant.design/components/input"
     },
     {
+      "key": "layout-component",
+      "value": 1,
+      "reference": "https://ant.design/components/layout"
+    },
+    {
       "key": "list-component",
       "value": 1,
       "reference": "https://ant.design/components/list"

@@ -159,6 +159,11 @@
       "reference": "https://mantine.dev/core/password-input/"
     },
     {
+      "key": "layout-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/app-shell/"
+    },
+    {
       "key": "list-component",
       "value": 1,
       "reference": "https://mantine.dev/core/list/"
