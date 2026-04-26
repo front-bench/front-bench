@@ -53,9 +53,6 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
         return (
           <>
             <div>{result.value.toLocaleString()}</div>
-            <Typography.Text type="secondary">
-              Score: {typeof result.score === 'number' ? (result.score * 100).toFixed(0) : '-'}
-            </Typography.Text>
           </>
         );
       },
