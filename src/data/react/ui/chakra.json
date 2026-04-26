@@ -69,6 +69,11 @@
       "reference": "https://chakra-ui.com/docs/components/table"
     },
     {
+      "key": "timeline-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "time-picker-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components"

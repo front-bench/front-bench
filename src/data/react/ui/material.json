@@ -69,6 +69,11 @@
       "reference": "https://mui.com/material-ui/react-table/"
     },
     {
+      "key": "timeline-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-timeline/"
+    },
+    {
       "key": "time-picker-component",
       "value": 1,
       "reference": "https://mui.com/x/react-date-pickers/time-picker/"

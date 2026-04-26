@@ -69,6 +69,11 @@
       "reference": "https://react-aria.adobe.com/Table"
     },
     {
+      "key": "timeline-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
+    },
+    {
       "key": "time-picker-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/TimeField"

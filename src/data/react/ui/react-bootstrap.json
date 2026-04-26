@@ -69,6 +69,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/table"
     },
     {
+      "key": "timeline-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components"
+    },
+    {
       "key": "time-picker-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/forms/form-control"

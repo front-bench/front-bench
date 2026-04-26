@@ -295,6 +295,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'timeline-component',
+      name: 'Timeline Component',
+      type: 'feature',
+    },
+    {
       key: 'time-picker-component',
       name: 'TimePicker Component',
       type: 'feature',

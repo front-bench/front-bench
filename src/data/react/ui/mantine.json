@@ -69,6 +69,11 @@
       "reference": "https://mantine.dev/core/table/"
     },
     {
+      "key": "timeline-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/timeline/"
+    },
+    {
       "key": "time-picker-component",
       "value": 1,
       "reference": "https://mantine.dev/dates/time-input/"
