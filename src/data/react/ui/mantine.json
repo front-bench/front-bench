@@ -109,6 +109,11 @@
       "reference": "https://mantine.dev/dates/calendar/"
     },
     {
+      "key": "date-picker-component",
+      "value": 1,
+      "reference": "https://mantine.dev/dates/date-picker/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mantine.dev/core/card/"

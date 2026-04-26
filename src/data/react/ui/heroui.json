@@ -109,6 +109,11 @@
       "reference": "https://www.heroui.com/docs/components/calendar"
     },
     {
+      "key": "date-picker-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/date-picker"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/card"

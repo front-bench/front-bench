@@ -150,6 +150,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'date-picker-component',
+      name: 'DatePicker Component',
+      type: 'feature',
+    },
+    {
       key: 'card-component',
       name: 'Card Component',
       type: 'feature',

@@ -109,6 +109,11 @@
       "reference": "https://mui.com/x/react-date-pickers/date-calendar/"
     },
     {
+      "key": "date-picker-component",
+      "value": 1,
+      "reference": "https://mui.com/x/react-date-pickers/date-picker/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-card/"

@@ -109,6 +109,11 @@
       "reference": "https://chakra-ui.com/docs/components/calendar"
     },
     {
+      "key": "date-picker-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/card"

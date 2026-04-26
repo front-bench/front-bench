@@ -109,6 +109,11 @@
       "reference": "https://ant.design/components/calendar"
     },
     {
+      "key": "date-picker-component",
+      "value": 1,
+      "reference": "https://ant.design/components/date-picker"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://ant.design/components/card"

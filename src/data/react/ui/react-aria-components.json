@@ -109,6 +109,11 @@
       "reference": "https://react-aria.adobe.com/Calendar"
     },
     {
+      "key": "date-picker-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/DatePicker"
+    },
+    {
       "key": "card-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"
