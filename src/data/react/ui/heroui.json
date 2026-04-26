@@ -1,0 +1,15 @@
+{
+  "key": "@heroui/react",
+  "name": "HeroUI",
+  "version": "3.x",
+  "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 261702
+    },
+    {
+      "key": "button-component",
+      "value": 1
+    }
+  ]
+}

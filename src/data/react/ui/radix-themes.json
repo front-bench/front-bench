@@ -1,0 +1,15 @@
+{
+  "key": "@radix-ui/themes",
+  "name": "Radix Themes",
+  "version": "3.x",
+  "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 528913
+    },
+    {
+      "key": "button-component",
+      "value": 1
+    }
+  ]
+}

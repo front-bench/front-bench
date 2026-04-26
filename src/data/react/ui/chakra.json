@@ -1,0 +1,15 @@
+{
+  "key": "@chakra-ui/react",
+  "name": "Chakra UI",
+  "version": "3.x",
+  "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 1343936
+    },
+    {
+      "key": "button-component",
+      "value": 1
+    }
+  ]
+}

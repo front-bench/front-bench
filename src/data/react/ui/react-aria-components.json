@@ -1,0 +1,15 @@
+{
+  "key": "react-aria-components",
+  "name": "React Aria Components",
+  "version": "1.x",
+  "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 2262500
+    },
+    {
+      "key": "button-component",
+      "value": 1
+    }
+  ]
+}

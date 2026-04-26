@@ -1,0 +1,15 @@
+{
+  "key": "primereact",
+  "name": "PrimeReact",
+  "version": "10.x",
+  "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 312679
+    },
+    {
+      "key": "button-component",
+      "value": 1
+    }
+  ]
+}
