@@ -11,32 +11,32 @@
     {
       "key": "button-component",
       "value": 1,
-      "reference": "https://react-spectrum.adobe.com/react-aria/Button.html"
+      "reference": "https://react-aria.adobe.com/Button"
     },
     {
       "key": "float-button-component",
       "value": 0,
-      "reference": "https://react-spectrum.adobe.com/react-aria/components.html"
+      "reference": "https://react-aria.adobe.com/"
     },
     {
       "key": "speed-dial-component",
       "value": 0,
-      "reference": "https://react-spectrum.adobe.com/react-aria/components.html"
+      "reference": "https://react-aria.adobe.com/"
     },
     {
       "key": "dropdown-menu-component",
       "value": 1,
-      "reference": "https://react-spectrum.adobe.com/react-aria/Menu.html"
+      "reference": "https://react-aria.adobe.com/Menu"
     },
     {
       "key": "dialog-modal-component",
       "value": 1,
-      "reference": "https://react-spectrum.adobe.com/react-aria/Dialog.html"
+      "reference": "https://react-aria.adobe.com/Dialog"
     },
     {
       "key": "tabs-component",
       "value": 1,
-      "reference": "https://react-spectrum.adobe.com/react-aria/Tabs.html"
+      "reference": "https://react-aria.adobe.com/Tabs"
     }
   ]
 }
