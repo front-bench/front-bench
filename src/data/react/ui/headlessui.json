@@ -169,6 +169,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

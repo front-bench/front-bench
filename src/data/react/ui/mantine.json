@@ -169,6 +169,11 @@
       "reference": "https://mantine.dev/core/"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/segmented-control/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mantine.dev/core/paper/"

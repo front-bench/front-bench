@@ -169,6 +169,11 @@
       "reference": "https://mui.com/material-ui/react-toggle-button/"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-toggle-button/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-paper/"

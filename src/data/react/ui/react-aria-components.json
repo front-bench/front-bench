@@ -169,6 +169,11 @@
       "reference": "https://react-aria.adobe.com/ToggleButton"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/ToggleButtonGroup"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

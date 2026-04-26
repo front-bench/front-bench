@@ -169,6 +169,11 @@
       "reference": "https://chakra-ui.com/docs/components/toggle-tip"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components"

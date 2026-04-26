@@ -169,6 +169,11 @@
       "reference": "https://ant.design/components/button"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 0,
+      "reference": "https://ant.design/components/segmented"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://ant.design/components"

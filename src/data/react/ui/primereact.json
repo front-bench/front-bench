@@ -169,6 +169,11 @@
       "reference": "https://primereact.org/togglebutton/"
     },
     {
+      "key": "toggle-button-group-component",
+      "value": 1,
+      "reference": "https://primereact.org/selectbutton/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://primereact.org/panel/"
