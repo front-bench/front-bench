@@ -94,6 +94,11 @@ const ui: Match = {
       name: 'Radio Component',
       type: 'feature',
     },
+    {
+      key: 'select-component',
+      name: 'Select Component',
+      type: 'feature',
+    },
   ],
 };
 

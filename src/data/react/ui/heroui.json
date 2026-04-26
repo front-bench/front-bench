@@ -52,6 +52,11 @@
       "key": "radio-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/radio"
+    },
+    {
+      "key": "select-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/select"
     }
   ]
 }
