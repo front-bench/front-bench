@@ -64,6 +64,11 @@
       "reference": "https://ant.design/components/input"
     },
     {
+      "key": "input-number-component",
+      "value": 1,
+      "reference": "https://ant.design/components/input-number"
+    },
+    {
       "key": "input-otp-component",
       "value": 1,
       "reference": "https://ant.design/components/input-otp"

@@ -64,6 +64,11 @@
       "reference": "https://react-aria.adobe.com/"
     },
     {
+      "key": "input-number-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/NumberField"
+    },
+    {
       "key": "input-otp-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

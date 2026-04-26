@@ -64,6 +64,11 @@
       "reference": "https://mui.com/material-ui/react-text-field/"
     },
     {
+      "key": "input-number-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-text-field/"
+    },
+    {
       "key": "input-otp-component",
       "value": 0,
       "reference": "https://mui.com/material-ui/react-text-field/"

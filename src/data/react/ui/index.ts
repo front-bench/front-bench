@@ -165,6 +165,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'input-number-component',
+      name: 'InputNumber Component',
+      type: 'feature',
+    },
+    {
       key: 'input-otp-component',
       name: 'InputOTP Component',
       type: 'feature',
