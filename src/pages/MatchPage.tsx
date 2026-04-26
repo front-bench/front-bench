@@ -1,6 +1,8 @@
+import { CheckCircleFilled, CloseCircleFilled } from '@ant-design/icons';
 import { Table, Typography } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import groups from '../data';
+import type Spec from '../types/Spec';
 
 const HUMAN_READABLE_DOWNLOADS_SPEC_KEY = 'npm-weekly-downloads';
 
@@ -19,6 +21,7 @@ interface SpecRow {
   key: string;
   specName: string;
   specKey: string;
+  specType?: Spec['type'];
 }
 
 interface MatchPageProps {
@@ -45,6 +48,7 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
     key: spec.key,
     specName: spec.name,
     specKey: spec.key,
+    specType: spec.type,
   }));
 
   const columns: ColumnsType<SpecRow> = [
@@ -63,6 +67,17 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
         if (!result) {
           return <Typography.Text type="secondary">-</Typography.Text>;
         }
+
+        if (row.specType === 'feature') {
+          if (result.value === 1) {
+            return <CheckCircleFilled style={{ color: '#389e0d', fontSize: 16 }} />;
+          }
+
+          if (result.value === 0) {
+            return <CloseCircleFilled style={{ color: '#cf1322', fontSize: 16 }} />;
+          }
+        }
+
         return (
           <>
             <div>{formatResultValue(row.specKey, result.value)}</div>

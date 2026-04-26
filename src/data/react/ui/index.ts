@@ -18,7 +18,7 @@ const ui: Match = {
     {
       key: 'button-component',
       name: 'Button Component',
-      weight: 0.5,
+      type: 'feature',
     },
   ],
 };

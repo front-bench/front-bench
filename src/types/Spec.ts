@@ -1,7 +1,7 @@
 export default interface Spec {
   key: string;
   name: string;
-  weight: number;
+  weight?: number;
   type?: 'feature' | 'bundle-size' | 'performance';
   /**
    * For 'bundle-size' type, the value is in bytes. Benchmark score is 1 if the value is equal or less than the minimum.
