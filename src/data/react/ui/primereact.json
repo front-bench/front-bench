@@ -37,6 +37,11 @@
       "key": "tabs-component",
       "value": 1,
       "reference": "https://primereact.org/tabview/"
+    },
+    {
+      "key": "checkbox-component",
+      "value": 1,
+      "reference": "https://primereact.org/checkbox/"
     }
   ]
 }

@@ -79,6 +79,11 @@ const ui: Match = {
       name: 'Tabs Component',
       type: 'feature',
     },
+    {
+      key: 'checkbox-component',
+      name: 'Checkbox Component',
+      type: 'feature',
+    },
   ],
 };
 

@@ -37,6 +37,11 @@
       "key": "tabs-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Tabs"
+    },
+    {
+      "key": "checkbox-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Checkbox"
     }
   ]
 }

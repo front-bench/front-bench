@@ -37,6 +37,11 @@
       "key": "tabs-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/tabs"
+    },
+    {
+      "key": "checkbox-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/checkbox"
     }
   ]
 }
