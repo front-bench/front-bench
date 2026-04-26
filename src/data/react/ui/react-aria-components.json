@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Breadcrumbs"
+    },
+    {
+      "key": "button-group-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
     }
   ]
 }

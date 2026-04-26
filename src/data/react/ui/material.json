@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-breadcrumbs/"
+    },
+    {
+      "key": "button-group-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-button-group/"
     }
   ]
 }

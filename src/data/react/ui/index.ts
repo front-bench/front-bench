@@ -139,6 +139,11 @@ const ui: Match = {
       name: 'Breadcrumbs Component',
       type: 'feature',
     },
+    {
+      key: 'button-group-component',
+      name: 'ButtonGroup Component',
+      type: 'feature',
+    },
   ],
 };
 

@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/breadcrumb"
+    },
+    {
+      "key": "button-group-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/button-group"
     }
   ]
 }

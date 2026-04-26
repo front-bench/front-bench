@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://mantine.dev/core/breadcrumbs/"
+    },
+    {
+      "key": "button-group-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/button-group/"
     }
   ]
 }

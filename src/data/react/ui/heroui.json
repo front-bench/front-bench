@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/breadcrumbs"
+    },
+    {
+      "key": "button-group-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/button-group"
     }
   ]
 }

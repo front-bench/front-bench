@@ -97,6 +97,11 @@
       "key": "breadcrumbs-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/breadcrumb"
+    },
+    {
+      "key": "button-group-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
     }
   ]
 }
