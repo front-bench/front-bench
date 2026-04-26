@@ -179,6 +179,11 @@
       "reference": "https://react-aria.adobe.com/AlertDialog"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Toast"
+    },
+    {
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/ComboBox"

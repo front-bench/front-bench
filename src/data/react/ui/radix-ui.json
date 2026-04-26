@@ -179,6 +179,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/callout"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/toast"
+    },
+    {
       "key": "autocomplete-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

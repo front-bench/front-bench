@@ -179,6 +179,11 @@
       "reference": "https://primereact.org/message/"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://primereact.org/toast/"
+    },
+    {
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://primereact.org/autocomplete/"

@@ -179,6 +179,11 @@
       "reference": "https://mantine.dev/core/alert/"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://mantine.dev/x/notifications/"
+    },
+    {
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://mantine.dev/core/autocomplete/"

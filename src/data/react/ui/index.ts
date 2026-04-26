@@ -60,6 +60,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'toast-component',
+      name: 'Toast Component',
+      type: 'feature',
+    },
+    {
       key: 'autocomplete-component',
       name: 'Autocomplete Component',
       type: 'feature',

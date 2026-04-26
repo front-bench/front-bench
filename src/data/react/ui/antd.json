@@ -179,6 +179,11 @@
       "reference": "https://ant.design/components/alert"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://ant.design/components/message"
+    },
+    {
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://ant.design/components/auto-complete"

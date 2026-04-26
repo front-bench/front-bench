@@ -179,6 +179,11 @@
       "reference": "https://chakra-ui.com/docs/components/alert"
     },
     {
+      "key": "toast-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/toast"
+    },
+    {
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/combobox"
