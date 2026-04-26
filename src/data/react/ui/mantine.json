@@ -107,6 +107,11 @@
       "key": "calendar-component",
       "value": 1,
       "reference": "https://mantine.dev/dates/calendar/"
+    },
+    {
+      "key": "card-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/card/"
     }
   ]
 }

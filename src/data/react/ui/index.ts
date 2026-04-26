@@ -149,6 +149,11 @@ const ui: Match = {
       name: 'Calendar Component',
       type: 'feature',
     },
+    {
+      key: 'card-component',
+      name: 'Card Component',
+      type: 'feature',
+    },
   ],
 };
 

@@ -107,6 +107,11 @@
       "key": "calendar-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/calendar"
+    },
+    {
+      "key": "card-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/card"
     }
   ]
 }

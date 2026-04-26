@@ -107,6 +107,11 @@
       "key": "calendar-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Calendar"
+    },
+    {
+      "key": "card-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
     }
   ]
 }

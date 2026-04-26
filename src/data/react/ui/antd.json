@@ -107,6 +107,11 @@
       "key": "calendar-component",
       "value": 1,
       "reference": "https://ant.design/components/calendar"
+    },
+    {
+      "key": "card-component",
+      "value": 1,
+      "reference": "https://ant.design/components/card"
     }
   ]
 }
