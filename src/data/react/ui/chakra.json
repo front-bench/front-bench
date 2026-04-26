@@ -69,6 +69,11 @@
       "reference": "https://chakra-ui.com/docs/components"
     },
     {
+      "key": "time-range-picker-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/checkbox"

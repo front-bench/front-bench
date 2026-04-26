@@ -69,6 +69,11 @@
       "reference": "https://ant.design/components/time-picker"
     },
     {
+      "key": "time-range-picker-component",
+      "value": 1,
+      "reference": "https://ant.design/components/time-picker"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://ant.design/components/checkbox"

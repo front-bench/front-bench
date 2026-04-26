@@ -265,6 +265,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'time-range-picker-component',
+      name: 'TimeRangePicker Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

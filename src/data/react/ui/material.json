@@ -69,6 +69,11 @@
       "reference": "https://mui.com/x/react-date-pickers/time-picker/"
     },
     {
+      "key": "time-range-picker-component",
+      "value": 1,
+      "reference": "https://mui.com/x/react-date-pickers/time-range-picker/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-checkbox/"
