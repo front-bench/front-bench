@@ -39,7 +39,12 @@
       "reference": "https://chakra-ui.com/docs/components/steps"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/menu"
+    },
+    {
+      "key": "menu-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/menu"
     },

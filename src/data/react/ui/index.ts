@@ -165,8 +165,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'dropdown-menu-component',
-      name: 'Dropdown/Menu Component',
+      key: 'dropdown-component',
+      name: 'Dropdown Component',
+      type: 'feature',
+    },
+    {
+      key: 'menu-component',
+      name: 'Menu Component',
       type: 'feature',
     },
     {

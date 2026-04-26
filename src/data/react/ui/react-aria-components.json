@@ -39,7 +39,12 @@
       "reference": "https://react-aria.adobe.com/"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Menu"
+    },
+    {
+      "key": "menu-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Menu"
     },

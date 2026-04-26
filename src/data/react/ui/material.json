@@ -39,7 +39,12 @@
       "reference": "https://mui.com/material-ui/react-stepper/"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-menu/"
+    },
+    {
+      "key": "menu-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-menu/"
     },

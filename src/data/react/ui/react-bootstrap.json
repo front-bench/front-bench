@@ -39,8 +39,13 @@
       "reference": "https://react-bootstrap.github.io/docs/components"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
       "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"
+    },
+    {
+      "key": "menu-component",
+      "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"
     },
     {

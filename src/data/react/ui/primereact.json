@@ -39,9 +39,14 @@
       "reference": "https://primereact.org/steps/"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
       "value": 1,
       "reference": "https://primereact.org/dropdown/"
+    },
+    {
+      "key": "menu-component",
+      "value": 1,
+      "reference": "https://primereact.org/menu/"
     },
     {
       "key": "context-menu-component",

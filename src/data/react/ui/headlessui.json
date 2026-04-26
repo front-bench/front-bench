@@ -39,7 +39,12 @@
       "reference": "https://headlessui.com/react"
     },
     {
-      "key": "dropdown-menu-component",
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/menu"
+    },
+    {
+      "key": "menu-component",
       "value": 1,
       "reference": "https://headlessui.com/react/menu"
     },
