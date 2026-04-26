@@ -112,6 +112,11 @@
       "key": "card-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/cards"
+    },
+    {
+      "key": "checkbox-group-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"
     }
   ]
 }

@@ -112,6 +112,11 @@
       "key": "card-component",
       "value": 1,
       "reference": "https://headlessui.com/react"
+    },
+    {
+      "key": "checkbox-group-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/checkbox"
     }
   ]
 }

@@ -112,6 +112,11 @@
       "key": "card-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/card"
+    },
+    {
+      "key": "checkbox-group-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/checkbox"
     }
   ]
 }

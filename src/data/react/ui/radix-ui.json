@@ -112,6 +112,11 @@
       "key": "card-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/card"
+    },
+    {
+      "key": "checkbox-group-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components/checkbox"
     }
   ]
 }

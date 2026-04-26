@@ -154,6 +154,11 @@ const ui: Match = {
       name: 'Card Component',
       type: 'feature',
     },
+    {
+      key: 'checkbox-group-component',
+      name: 'CheckboxGroup Component',
+      type: 'feature',
+    },
   ],
 };
 

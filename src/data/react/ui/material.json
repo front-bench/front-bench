@@ -112,6 +112,11 @@
       "key": "card-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-card/"
+    },
+    {
+      "key": "checkbox-group-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-checkbox/"
     }
   ]
 }
