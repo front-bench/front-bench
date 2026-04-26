@@ -54,6 +54,11 @@ const ui: Match = {
       name: 'Button Component',
       type: 'feature',
     },
+    {
+      key: 'float-button-component',
+      name: 'FloatButton Component',
+      type: 'feature',
+    },
   ],
 };
 

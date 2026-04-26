@@ -12,6 +12,11 @@
       "key": "button-component",
       "value": 1,
       "reference": "https://ant.design/components/button"
+    },
+    {
+      "key": "float-button-component",
+      "value": 1,
+      "reference": "https://ant.design/components/float-button"
     }
   ]
 }

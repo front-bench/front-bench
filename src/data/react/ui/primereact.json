@@ -12,6 +12,11 @@
       "key": "button-component",
       "value": 1,
       "reference": "https://primereact.org/button/"
+    },
+    {
+      "key": "float-button-component",
+      "value": 1,
+      "reference": "https://primereact.org/speeddial/"
     }
   ]
 }
