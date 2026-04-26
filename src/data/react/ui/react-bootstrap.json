@@ -89,6 +89,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/progress"
     },
     {
+      "key": "progress-circle-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components/progress"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"

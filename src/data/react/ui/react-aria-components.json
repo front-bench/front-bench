@@ -89,6 +89,11 @@
       "reference": "https://react-aria.adobe.com/ProgressBar"
     },
     {
+      "key": "progress-circle-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/ProgressBar"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/RadioGroup"

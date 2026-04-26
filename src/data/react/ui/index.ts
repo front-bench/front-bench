@@ -190,6 +190,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'progress-circle-component',
+      name: 'ProgressCircle Component',
+      type: 'feature',
+    },
+    {
       key: 'radio-component',
       name: 'Radio Component',
       type: 'feature',
