@@ -119,6 +119,11 @@ const ui: Match = {
       name: 'Alert Component',
       type: 'feature',
     },
+    {
+      key: 'autocomplete-component',
+      name: 'Autocomplete Component',
+      type: 'feature',
+    },
   ],
 };
 

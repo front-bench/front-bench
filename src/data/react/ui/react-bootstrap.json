@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/alerts"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/overview"
     }
   ]
 }

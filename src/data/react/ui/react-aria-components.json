@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/AlertDialog"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/ComboBox"
     }
   ]
 }

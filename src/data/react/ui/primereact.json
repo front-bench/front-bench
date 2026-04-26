@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 1,
       "reference": "https://primereact.org/message/"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 1,
+      "reference": "https://primereact.org/autocomplete/"
     }
   ]
 }

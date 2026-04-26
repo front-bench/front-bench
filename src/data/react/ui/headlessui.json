@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 0,
       "reference": "https://headlessui.com/react"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/combobox"
     }
   ]
 }

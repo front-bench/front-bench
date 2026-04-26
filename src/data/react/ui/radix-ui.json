@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components/callout"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
     }
   ]
 }

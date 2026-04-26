@@ -77,6 +77,11 @@
       "key": "alert-component",
       "value": 1,
       "reference": "https://mantine.dev/core/alert/"
+    },
+    {
+      "key": "autocomplete-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/autocomplete/"
     }
   ]
 }
