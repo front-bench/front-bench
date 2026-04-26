@@ -229,6 +229,11 @@
       "reference": "https://primereact.org/tooltip/"
     },
     {
+      "key": "upload-component",
+      "value": 1,
+      "reference": "https://primereact.org/fileupload/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://primereact.org/panel/"

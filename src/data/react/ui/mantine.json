@@ -229,6 +229,11 @@
       "reference": "https://mantine.dev/core/tooltip/"
     },
     {
+      "key": "upload-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/file-input/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mantine.dev/core/paper/"

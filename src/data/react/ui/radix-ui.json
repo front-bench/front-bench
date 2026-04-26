@@ -229,6 +229,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/tooltip"
     },
     {
+      "key": "upload-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

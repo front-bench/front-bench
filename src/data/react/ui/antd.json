@@ -229,6 +229,11 @@
       "reference": "https://ant.design/components/tooltip"
     },
     {
+      "key": "upload-component",
+      "value": 1,
+      "reference": "https://ant.design/components/upload"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://ant.design/components"

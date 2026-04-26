@@ -345,6 +345,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'upload-component',
+      name: 'Upload Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

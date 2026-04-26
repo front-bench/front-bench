@@ -229,6 +229,11 @@
       "reference": "https://mui.com/material-ui/react-tooltip/"
     },
     {
+      "key": "upload-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-button/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-paper/"

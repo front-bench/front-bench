@@ -229,6 +229,11 @@
       "reference": "https://chakra-ui.com/docs/components/tooltip"
     },
     {
+      "key": "upload-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/file-upload"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components"

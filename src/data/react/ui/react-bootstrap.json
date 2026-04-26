@@ -229,6 +229,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/overlays#tooltips"
     },
     {
+      "key": "upload-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control#file-input"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components"
