@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/badge"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
     }
   ]
 }

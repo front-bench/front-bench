@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://mantine.dev/core/pill/"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/color-picker/"
     }
   ]
 }

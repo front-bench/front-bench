@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-chip/"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-text-field/"
     }
   ]
 }

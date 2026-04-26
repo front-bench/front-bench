@@ -164,6 +164,11 @@ const ui: Match = {
       name: 'Chip/Tag Component',
       type: 'feature',
     },
+    {
+      key: 'color-picker-component',
+      name: 'ColorPicker Component',
+      type: 'feature',
+    },
   ],
 };
 

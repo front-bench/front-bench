@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/badge"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
     }
   ]
 }

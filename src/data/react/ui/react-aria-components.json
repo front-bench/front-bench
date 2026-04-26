@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/TagGroup"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/ColorArea"
     }
   ]
 }

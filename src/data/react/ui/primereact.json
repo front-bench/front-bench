@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://primereact.org/chip/"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 1,
+      "reference": "https://primereact.org/colorpicker/"
     }
   ]
 }

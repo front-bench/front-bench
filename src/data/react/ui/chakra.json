@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/tag"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
     }
   ]
 }

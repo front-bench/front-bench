@@ -122,6 +122,11 @@
       "key": "chip-tag-component",
       "value": 1,
       "reference": "https://ant.design/components/tag"
+    },
+    {
+      "key": "color-picker-component",
+      "value": 1,
+      "reference": "https://ant.design/components/color-picker"
     }
   ]
 }
