@@ -74,6 +74,11 @@
       "reference": "https://mantine.dev/core/tabs/"
     },
     {
+      "key": "typography-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/typography-styles-provider/"
+    },
+    {
       "key": "toolbar-component",
       "value": 0,
       "reference": "https://mantine.dev/core/"

@@ -74,6 +74,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/tabs"
     },
     {
+      "key": "typography-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/content/typography"
+    },
+    {
       "key": "toolbar-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/button-group/#button-toolbar"

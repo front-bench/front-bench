@@ -74,6 +74,11 @@
       "reference": "https://primereact.org/tabview/"
     },
     {
+      "key": "typography-component",
+      "value": 0,
+      "reference": "https://primereact.org/"
+    },
+    {
       "key": "toolbar-component",
       "value": 1,
       "reference": "https://primereact.org/toolbar/"

@@ -74,6 +74,11 @@
       "reference": "https://ant.design/components/tabs"
     },
     {
+      "key": "typography-component",
+      "value": 1,
+      "reference": "https://ant.design/components/typography"
+    },
+    {
       "key": "toolbar-component",
       "value": 0,
       "reference": "https://ant.design/components"

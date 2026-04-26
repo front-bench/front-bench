@@ -385,6 +385,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'typography-component',
+      name: 'Typography Component',
+      type: 'feature',
+    },
+    {
       key: 'textarea-component',
       name: 'TextArea Component',
       type: 'feature',

@@ -74,6 +74,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/tabs"
     },
     {
+      "key": "typography-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "toolbar-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

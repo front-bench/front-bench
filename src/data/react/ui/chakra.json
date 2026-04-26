@@ -74,6 +74,11 @@
       "reference": "https://chakra-ui.com/docs/components/tabs"
     },
     {
+      "key": "typography-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/text"
+    },
+    {
       "key": "toolbar-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components"

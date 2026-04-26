@@ -74,6 +74,11 @@
       "reference": "https://headlessui.com/react/tabs"
     },
     {
+      "key": "typography-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "toolbar-component",
       "value": 0,
       "reference": "https://headlessui.com/react"
