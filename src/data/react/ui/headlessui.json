@@ -294,6 +294,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "carousel-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "date-picker-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

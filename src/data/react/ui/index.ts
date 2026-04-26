@@ -100,6 +100,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'carousel-component',
+      name: 'Carousel Component',
+      type: 'feature',
+    },
+    {
       key: 'card-component',
       name: 'Card Component',
       type: 'feature',

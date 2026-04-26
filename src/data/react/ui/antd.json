@@ -294,6 +294,11 @@
       "reference": "https://ant.design/components/calendar"
     },
     {
+      "key": "carousel-component",
+      "value": 1,
+      "reference": "https://ant.design/components/carousel"
+    },
+    {
       "key": "date-picker-component",
       "value": 1,
       "reference": "https://ant.design/components/date-picker"

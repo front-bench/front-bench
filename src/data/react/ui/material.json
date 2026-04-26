@@ -294,6 +294,11 @@
       "reference": "https://mui.com/x/react-date-pickers/date-calendar/"
     },
     {
+      "key": "carousel-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/getting-started/"
+    },
+    {
       "key": "date-picker-component",
       "value": 1,
       "reference": "https://mui.com/x/react-date-pickers/date-picker/"

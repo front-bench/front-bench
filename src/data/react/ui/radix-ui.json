@@ -294,6 +294,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components"
     },
     {
+      "key": "carousel-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "date-picker-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"
