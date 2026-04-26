@@ -24,7 +24,7 @@
       "reference": "https://ant.design/components/float-button"
     },
     {
-      "key": "dropdown-component",
+      "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://ant.design/components/dropdown"
     },

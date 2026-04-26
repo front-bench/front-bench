@@ -24,7 +24,7 @@
       "reference": "https://react-spectrum.adobe.com/react-aria/components.html"
     },
     {
-      "key": "dropdown-component",
+      "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://react-spectrum.adobe.com/react-aria/Menu.html"
     },

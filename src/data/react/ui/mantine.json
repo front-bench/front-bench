@@ -24,7 +24,7 @@
       "reference": "https://mantine.dev/core/affix/"
     },
     {
-      "key": "dropdown-component",
+      "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://mantine.dev/core/menu/"
     },

@@ -65,7 +65,7 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'dropdown-component',
+      key: 'dropdown-menu-component',
       name: 'Dropdown/Menu Component',
       type: 'feature',
     },
