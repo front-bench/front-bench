@@ -134,6 +134,11 @@ const ui: Match = {
       name: 'Badge Component',
       type: 'feature',
     },
+    {
+      key: 'breadcrumbs-component',
+      name: 'Breadcrumbs Component',
+      type: 'feature',
+    },
   ],
 };
 
