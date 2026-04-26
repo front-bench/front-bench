@@ -39,6 +39,11 @@
       "reference": "https://primereact.org/dialog/"
     },
     {
+      "key": "divider-separator-component",
+      "value": 1,
+      "reference": "https://primereact.org/divider/"
+    },
+    {
       "key": "drawer-component",
       "value": 0,
       "reference": "https://primereact.org/sidebar/"

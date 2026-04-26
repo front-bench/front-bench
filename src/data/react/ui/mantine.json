@@ -39,6 +39,11 @@
       "reference": "https://mantine.dev/core/modal/"
     },
     {
+      "key": "divider-separator-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/divider/"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://mantine.dev/core/drawer/"

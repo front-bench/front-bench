@@ -39,6 +39,11 @@
       "reference": "https://mui.com/material-ui/react-dialog/"
     },
     {
+      "key": "divider-separator-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-divider/"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-drawer/"

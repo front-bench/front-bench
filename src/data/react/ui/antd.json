@@ -39,6 +39,11 @@
       "reference": "https://ant.design/components/modal"
     },
     {
+      "key": "divider-separator-component",
+      "value": 1,
+      "reference": "https://ant.design/components/divider"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://ant.design/components/drawer"

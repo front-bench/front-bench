@@ -135,6 +135,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'divider-separator-component',
+      name: 'Divider/Separator Component',
+      type: 'feature',
+    },
+    {
       key: 'drawer-component',
       name: 'Drawer Component',
       type: 'feature',
