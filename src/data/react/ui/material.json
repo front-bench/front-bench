@@ -44,6 +44,11 @@
       "reference": "https://mui.com/material-ui/react-menu/"
     },
     {
+      "key": "masonry-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-masonry/"
+    },
+    {
       "key": "menu-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-menu/"

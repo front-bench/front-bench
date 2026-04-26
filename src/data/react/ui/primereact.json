@@ -44,6 +44,11 @@
       "reference": "https://primereact.org/dropdown/"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/primereact"
+    },
+    {
       "key": "menu-component",
       "value": 1,
       "reference": "https://primereact.org/menu/"

@@ -44,6 +44,11 @@
       "reference": "https://headlessui.com/react/menu"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@headlessui/react"
+    },
+    {
       "key": "menu-component",
       "value": 1,
       "reference": "https://headlessui.com/react/menu"

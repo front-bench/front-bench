@@ -44,6 +44,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/react-bootstrap"
+    },
+    {
       "key": "menu-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"

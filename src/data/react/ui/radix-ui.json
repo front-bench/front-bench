@@ -44,6 +44,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/dropdown-menu"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@radix-ui/themes"
+    },
+    {
       "key": "menu-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components/dropdown-menu"

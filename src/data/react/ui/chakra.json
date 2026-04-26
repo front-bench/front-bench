@@ -44,6 +44,11 @@
       "reference": "https://chakra-ui.com/docs/components/menu"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@chakra-ui/react"
+    },
+    {
       "key": "menu-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/menu"

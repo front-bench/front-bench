@@ -230,6 +230,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'masonry-component',
+      name: 'Masonry Component',
+      type: 'feature',
+    },
+    {
       key: 'menu-component',
       name: 'Menu Component',
       type: 'feature',

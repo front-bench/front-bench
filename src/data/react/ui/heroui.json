@@ -44,6 +44,11 @@
       "reference": "https://www.heroui.com/docs/components/dropdown"
     },
     {
+      "key": "masonry-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@heroui/react"
+    },
+    {
       "key": "menu-component",
       "value": 0,
       "reference": "https://www.heroui.com/docs/components"

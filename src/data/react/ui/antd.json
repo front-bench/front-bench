@@ -44,6 +44,11 @@
       "reference": "https://ant.design/components/dropdown"
     },
     {
+      "key": "masonry-component",
+      "value": 1,
+      "reference": "https://ant.design/components/masonry"
+    },
+    {
       "key": "menu-component",
       "value": 1,
       "reference": "https://ant.design/components/menu"
