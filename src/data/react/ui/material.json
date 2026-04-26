@@ -1,8 +1,12 @@
 {
-  "key": "material",
+  "key": "@mui/material",
   "name": "Material UI",
   "version": "9.x",
   "results": [
+    {
+      "key": "npm-weekly-downloads",
+      "value": 8480750
+    },
     {
       "key": "button-bundle-size",
       "value": 12345,

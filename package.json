@@ -24,7 +24,8 @@
     "lint:fix": "prettier --write . && eslint --fix .",
     "prepare": "husky",
     "preview": "vite preview",
-    "start": "vite"
+    "start": "vite",
+    "update:npm-downloads": "tsx scripts/update-npm-weekly-downloads.ts"
   },
   "lint-staged": {
     "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
@@ -53,6 +54,7 @@
     "lint-staged": "^16.4.0",
     "prettier": "^3.8.3",
     "prettier-config-ali": "^1.5.0",
+    "tsx": "^4.21.0",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.59.0",
     "vite": "^8.0.10"
