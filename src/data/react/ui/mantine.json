@@ -74,6 +74,11 @@
       "reference": "https://mantine.dev/core/pin-input/"
     },
     {
+      "key": "pagination-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/pagination/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mantine.dev/core/radio/"

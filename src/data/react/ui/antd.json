@@ -74,6 +74,11 @@
       "reference": "https://ant.design/components/input-otp"
     },
     {
+      "key": "pagination-component",
+      "value": 1,
+      "reference": "https://ant.design/components/pagination"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://ant.design/components/radio"

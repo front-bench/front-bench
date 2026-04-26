@@ -74,6 +74,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "pagination-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://headlessui.com/react/radio-group"

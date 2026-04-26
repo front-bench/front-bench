@@ -74,6 +74,11 @@
       "reference": "https://chakra-ui.com/docs/components/pin-input"
     },
     {
+      "key": "pagination-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/pagination"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/radio"

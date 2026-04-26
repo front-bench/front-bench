@@ -175,6 +175,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'pagination-component',
+      name: 'Pagination Component',
+      type: 'feature',
+    },
+    {
       key: 'radio-component',
       name: 'Radio Component',
       type: 'feature',

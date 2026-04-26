@@ -74,6 +74,11 @@
       "reference": "https://mui.com/material-ui/react-text-field/"
     },
     {
+      "key": "pagination-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-pagination/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-radio-button/"

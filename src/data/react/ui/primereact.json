@@ -74,6 +74,11 @@
       "reference": "https://primereact.org/inputotp/"
     },
     {
+      "key": "pagination-component",
+      "value": 1,
+      "reference": "https://primereact.org/paginator/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://primereact.org/radiobutton/"
