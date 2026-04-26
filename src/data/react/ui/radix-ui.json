@@ -114,6 +114,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/select"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/slider"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components/scroll-area"

@@ -114,6 +114,11 @@
       "reference": "https://chakra-ui.com/docs/components/select"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/slider"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components/scroll-area"

@@ -114,6 +114,11 @@
       "reference": "https://headlessui.com/react/listbox"
     },
     {
+      "key": "slider-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

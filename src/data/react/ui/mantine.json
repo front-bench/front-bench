@@ -114,6 +114,11 @@
       "reference": "https://mantine.dev/core/select/"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/slider/"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://mantine.dev/core/scroll-area/"

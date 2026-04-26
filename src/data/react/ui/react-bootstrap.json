@@ -114,6 +114,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/select"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/forms/range"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components"

@@ -114,6 +114,11 @@
       "reference": "https://primereact.org/select/"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://primereact.org/slider/"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://primereact.org/scrollpanel/"

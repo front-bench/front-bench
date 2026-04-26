@@ -215,6 +215,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'slider-component',
+      name: 'Slider Component',
+      type: 'feature',
+    },
+    {
       key: 'scroll-shadow-component',
       name: 'ScrollShadow Component',
       type: 'feature',

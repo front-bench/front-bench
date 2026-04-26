@@ -114,6 +114,11 @@
       "reference": "https://ant.design/components/select"
     },
     {
+      "key": "slider-component",
+      "value": 1,
+      "reference": "https://ant.design/components/slider"
+    },
+    {
       "key": "scroll-shadow-component",
       "value": 0,
       "reference": "https://ant.design/components"
