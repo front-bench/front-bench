@@ -59,6 +59,11 @@
       "reference": "https://primereact.org/inputtext/"
     },
     {
+      "key": "input-group-component",
+      "value": 1,
+      "reference": "https://primereact.org/inputgroup/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://primereact.org/radiobutton/"

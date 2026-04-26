@@ -160,6 +160,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'input-group-component',
+      name: 'InputGroup Component',
+      type: 'feature',
+    },
+    {
       key: 'radio-component',
       name: 'Radio Component',
       type: 'feature',

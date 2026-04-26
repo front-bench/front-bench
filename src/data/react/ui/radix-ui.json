@@ -59,6 +59,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/text-field"
     },
     {
+      "key": "input-group-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components/text-field"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/radio-group"
