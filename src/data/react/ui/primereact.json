@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 1,
       "reference": "https://primereact.org/avatar/"
+    },
+    {
+      "key": "badge-component",
+      "value": 1,
+      "reference": "https://primereact.org/badge/"
     }
   ]
 }

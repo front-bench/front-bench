@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/avatar"
+    },
+    {
+      "key": "badge-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/badge"
     }
   ]
 }

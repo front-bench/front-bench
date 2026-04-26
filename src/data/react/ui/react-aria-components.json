@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Avatar"
+    },
+    {
+      "key": "badge-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
     }
   ]
 }

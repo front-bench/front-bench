@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 1,
       "reference": "https://mantine.dev/core/avatar/"
+    },
+    {
+      "key": "badge-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/badge/"
     }
   ]
 }

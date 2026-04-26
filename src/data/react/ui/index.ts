@@ -129,6 +129,11 @@ const ui: Match = {
       name: 'Avatar Component',
       type: 'feature',
     },
+    {
+      key: 'badge-component',
+      name: 'Badge Component',
+      type: 'feature',
+    },
   ],
 };
 

@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components/images"
+    },
+    {
+      "key": "badge-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/badge"
     }
   ]
 }

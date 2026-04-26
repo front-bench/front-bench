@@ -87,6 +87,11 @@
       "key": "avatar-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-avatar/"
+    },
+    {
+      "key": "badge-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-badge/"
     }
   ]
 }
