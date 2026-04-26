@@ -99,6 +99,11 @@ const ui: Match = {
       name: 'Select Component',
       type: 'feature',
     },
+    {
+      key: 'switch-component',
+      name: 'Switch Component',
+      type: 'feature',
+    },
   ],
 };
 

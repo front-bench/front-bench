@@ -57,6 +57,11 @@
       "key": "select-component",
       "value": 1,
       "reference": "https://primereact.org/select/"
+    },
+    {
+      "key": "switch-component",
+      "value": 1,
+      "reference": "https://primereact.org/inputswitch/"
     }
   ]
 }

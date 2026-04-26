@@ -57,6 +57,11 @@
       "key": "select-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/select"
+    },
+    {
+      "key": "switch-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/switch"
     }
   ]
 }

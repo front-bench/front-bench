@@ -57,6 +57,11 @@
       "key": "select-component",
       "value": 1,
       "reference": "https://headlessui.com/react/listbox"
+    },
+    {
+      "key": "switch-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/switch"
     }
   ]
 }
