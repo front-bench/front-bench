@@ -34,6 +34,11 @@
       "reference": "https://mui.com/material-ui/react-progress/"
     },
     {
+      "key": "steps-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-stepper/"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-menu/"

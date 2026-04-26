@@ -285,6 +285,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'steps-component',
+      name: 'Steps Component',
+      type: 'feature',
+    },
+    {
       key: 'switch-component',
       name: 'Switch Component',
       type: 'feature',

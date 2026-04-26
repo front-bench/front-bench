@@ -34,6 +34,11 @@
       "reference": "https://primereact.org/progressspinner/"
     },
     {
+      "key": "steps-component",
+      "value": 1,
+      "reference": "https://primereact.org/steps/"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://primereact.org/dropdown/"

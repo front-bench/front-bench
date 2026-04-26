@@ -34,6 +34,11 @@
       "reference": "https://chakra-ui.com/docs/components/spinner"
     },
     {
+      "key": "steps-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/steps"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/menu"

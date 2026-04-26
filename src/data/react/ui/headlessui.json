@@ -34,6 +34,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "steps-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://headlessui.com/react/menu"
