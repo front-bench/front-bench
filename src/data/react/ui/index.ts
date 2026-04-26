@@ -159,6 +159,11 @@ const ui: Match = {
       name: 'CheckboxGroup Component',
       type: 'feature',
     },
+    {
+      key: 'chip-tag-component',
+      name: 'Chip/Tag Component',
+      type: 'feature',
+    },
   ],
 };
 
