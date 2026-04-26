@@ -42,6 +42,11 @@
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://headlessui.com/react/checkbox"
+    },
+    {
+      "key": "input-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/input"
     }
   ]
 }

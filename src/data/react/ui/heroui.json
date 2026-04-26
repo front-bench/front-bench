@@ -42,6 +42,11 @@
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/checkbox"
+    },
+    {
+      "key": "input-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/input"
     }
   ]
 }

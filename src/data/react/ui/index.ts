@@ -84,6 +84,11 @@ const ui: Match = {
       name: 'Checkbox Component',
       type: 'feature',
     },
+    {
+      key: 'input-component',
+      name: 'Input Component',
+      type: 'feature',
+    },
   ],
 };
 
