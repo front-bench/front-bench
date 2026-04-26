@@ -134,6 +134,11 @@
       "reference": "https://ant.design/components/input"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://ant.design/components/list"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://ant.design/components/pagination"

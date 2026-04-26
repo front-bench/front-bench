@@ -134,6 +134,11 @@
       "reference": "https://headlessui.com/react/input"
     },
     {
+      "key": "list-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "pagination-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

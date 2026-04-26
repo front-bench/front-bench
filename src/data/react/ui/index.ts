@@ -215,6 +215,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'list-component',
+      name: 'List Component',
+      type: 'feature',
+    },
+    {
       key: 'mention-component',
       name: 'Mention Component',
       type: 'feature',

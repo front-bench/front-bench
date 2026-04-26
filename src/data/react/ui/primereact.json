@@ -134,6 +134,11 @@
       "reference": "https://primereact.org/password/"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://primereact.org/listbox/"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://primereact.org/paginator/"

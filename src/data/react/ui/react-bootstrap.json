@@ -134,6 +134,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/list-group"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/pagination"

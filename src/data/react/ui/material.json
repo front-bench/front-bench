@@ -134,6 +134,11 @@
       "reference": "https://mui.com/material-ui/react-text-field/"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-list/"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-pagination/"

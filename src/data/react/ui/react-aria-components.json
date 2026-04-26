@@ -134,6 +134,11 @@
       "reference": "https://react-aria.adobe.com/TextField"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/ListBox"
+    },
+    {
       "key": "pagination-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

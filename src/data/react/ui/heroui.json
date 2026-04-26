@@ -134,6 +134,11 @@
       "reference": "https://www.heroui.com/docs/components/input"
     },
     {
+      "key": "list-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/pagination"

@@ -134,6 +134,11 @@
       "reference": "https://chakra-ui.com/docs/components/password-input"
     },
     {
+      "key": "list-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/list"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/pagination"

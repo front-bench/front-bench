@@ -134,6 +134,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/text-field"
     },
     {
+      "key": "list-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "pagination-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"
