@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-dialog/"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-tabs/"
     }
   ]
 }

@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://primereact.org/dialog/"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://primereact.org/tabview/"
     }
   ]
 }

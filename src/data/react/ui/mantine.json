@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mantine.dev/core/modal/"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/tabs/"
     }
   ]
 }

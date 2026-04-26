@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dialog"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/tabs"
     }
   ]
 }

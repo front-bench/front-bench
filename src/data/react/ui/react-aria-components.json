@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-spectrum.adobe.com/react-aria/Dialog.html"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://react-spectrum.adobe.com/react-aria/Tabs.html"
     }
   ]
 }

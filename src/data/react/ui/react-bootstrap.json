@@ -32,6 +32,11 @@
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/modal"
+    },
+    {
+      "key": "tabs-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/tabs"
     }
   ]
 }

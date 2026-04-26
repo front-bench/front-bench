@@ -74,6 +74,11 @@ const ui: Match = {
       name: 'Dialog/Modal Component',
       type: 'feature',
     },
+    {
+      key: 'tabs-component',
+      name: 'Tabs Component',
+      type: 'feature',
+    },
   ],
 };
 
