@@ -27,6 +27,11 @@
       "key": "dropdown-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dropdown-menu"
+    },
+    {
+      "key": "dialog-modal-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/dialog"
     }
   ]
 }

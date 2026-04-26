@@ -69,6 +69,11 @@ const ui: Match = {
       name: 'Dropdown/Menu Component',
       type: 'feature',
     },
+    {
+      key: 'dialog-modal-component',
+      name: 'Dialog/Modal Component',
+      type: 'feature',
+    },
   ],
 };
 
