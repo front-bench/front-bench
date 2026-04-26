@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://headlessui.com/react/textarea"
+    },
+    {
+      "key": "accordion-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/disclosure"
     }
   ]
 }

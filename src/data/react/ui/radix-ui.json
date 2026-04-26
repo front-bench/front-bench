@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/text-area"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/accordion"
     }
   ]
 }

@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://ant.design/components/input"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://ant.design/components/collapse"
     }
   ]
 }

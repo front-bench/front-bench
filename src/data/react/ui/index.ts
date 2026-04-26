@@ -109,6 +109,11 @@ const ui: Match = {
       name: 'TextArea Component',
       type: 'feature',
     },
+    {
+      key: 'accordion-component',
+      name: 'Accordion Component',
+      type: 'feature',
+    },
   ],
 };
 

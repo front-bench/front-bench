@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/textarea"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/accordion"
     }
   ]
 }

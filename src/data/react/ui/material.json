@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-textarea-autosize/"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-accordion/"
     }
   ]
 }

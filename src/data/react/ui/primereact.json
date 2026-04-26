@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://primereact.org/textarea/"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://primereact.org/accordion/"
     }
   ]
 }

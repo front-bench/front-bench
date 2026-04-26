@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/TextArea"
+    },
+    {
+      "key": "accordion-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/Disclosure"
     }
   ]
 }

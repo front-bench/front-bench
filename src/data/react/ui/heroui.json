@@ -67,6 +67,11 @@
       "key": "textarea-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/textarea"
+    },
+    {
+      "key": "accordion-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/accordion"
     }
   ]
 }
