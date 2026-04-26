@@ -59,6 +59,11 @@
       "reference": "https://primereact.org/tabview/"
     },
     {
+      "key": "table-component",
+      "value": 1,
+      "reference": "https://primereact.org/datatable/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://primereact.org/checkbox/"

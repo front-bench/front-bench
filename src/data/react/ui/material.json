@@ -59,6 +59,11 @@
       "reference": "https://mui.com/material-ui/react-tabs/"
     },
     {
+      "key": "table-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-table/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-checkbox/"

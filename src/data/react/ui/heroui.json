@@ -59,6 +59,11 @@
       "reference": "https://www.heroui.com/docs/components/tabs"
     },
     {
+      "key": "table-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/table"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/checkbox"

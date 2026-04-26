@@ -255,6 +255,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'table-component',
+      name: 'Table Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

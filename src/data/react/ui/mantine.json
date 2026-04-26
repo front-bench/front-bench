@@ -59,6 +59,11 @@
       "reference": "https://mantine.dev/core/tabs/"
     },
     {
+      "key": "table-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/table/"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://mantine.dev/core/checkbox/"

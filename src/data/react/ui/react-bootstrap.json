@@ -59,6 +59,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/tabs"
     },
     {
+      "key": "table-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/table"
+    },
+    {
       "key": "checkbox-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"
