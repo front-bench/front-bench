@@ -7,7 +7,7 @@ import heroui from './heroui.json';
 import mantine from './mantine.json';
 import material from './material.json';
 import primereact from './primereact.json';
-import radixThemes from './radix-themes.json';
+import radixui from './radix-ui.json';
 import reactAriaComponents from './react-aria-components.json';
 import reactBootstrap from './react-bootstrap.json';
 
@@ -25,7 +25,7 @@ const candidates: Candidate[] = [
   mantine,
   material,
   primereact,
-  radixThemes,
+  radixui,
   reactAriaComponents,
   reactBootstrap,
 ].sort((a, b) => {
