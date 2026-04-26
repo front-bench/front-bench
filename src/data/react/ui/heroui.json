@@ -144,6 +144,11 @@
       "reference": "https://www.heroui.com/docs/components/switch"
     },
     {
+      "key": "surface-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/textarea"

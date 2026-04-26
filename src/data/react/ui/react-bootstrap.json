@@ -144,6 +144,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios#switches"
     },
     {
+      "key": "surface-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/form-control"

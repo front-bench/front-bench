@@ -144,6 +144,11 @@
       "reference": "https://primereact.org/inputswitch/"
     },
     {
+      "key": "surface-component",
+      "value": 1,
+      "reference": "https://primereact.org/panel/"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://primereact.org/textarea/"

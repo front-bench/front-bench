@@ -144,6 +144,11 @@
       "reference": "https://headlessui.com/react/switch"
     },
     {
+      "key": "surface-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://headlessui.com/react/textarea"

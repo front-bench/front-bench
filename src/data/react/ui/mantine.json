@@ -144,6 +144,11 @@
       "reference": "https://mantine.dev/core/switch/"
     },
     {
+      "key": "surface-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/paper/"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://mantine.dev/core/textarea/"

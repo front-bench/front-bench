@@ -250,6 +250,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'surface-component',
+      name: 'Surface Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

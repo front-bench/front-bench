@@ -144,6 +144,11 @@
       "reference": "https://ant.design/components/switch"
     },
     {
+      "key": "surface-component",
+      "value": 0,
+      "reference": "https://ant.design/components"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://ant.design/components/input"

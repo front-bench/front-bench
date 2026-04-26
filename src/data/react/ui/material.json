@@ -144,6 +144,11 @@
       "reference": "https://mui.com/material-ui/react-switch/"
     },
     {
+      "key": "surface-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-paper/"
+    },
+    {
       "key": "textarea-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-textarea-autosize/"
