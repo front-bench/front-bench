@@ -59,6 +59,11 @@
       "reference": "https://chakra-ui.com/docs/theming/overview"
     },
     {
+      "key": "flex-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/flex"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/dialog"

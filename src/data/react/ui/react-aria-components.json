@@ -59,6 +59,11 @@
       "reference": "https://react-aria.adobe.com"
     },
     {
+      "key": "flex-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Dialog"

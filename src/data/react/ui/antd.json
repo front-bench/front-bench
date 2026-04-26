@@ -59,6 +59,11 @@
       "reference": "https://ant.design/components/config-provider"
     },
     {
+      "key": "flex-component",
+      "value": 1,
+      "reference": "https://ant.design/components/flex"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://ant.design/components/modal"

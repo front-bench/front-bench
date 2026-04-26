@@ -59,6 +59,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "flex-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://headlessui.com/react/dialog"

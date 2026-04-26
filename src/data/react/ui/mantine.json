@@ -59,6 +59,11 @@
       "reference": "https://mantine.dev/theming/mantine-provider/"
     },
     {
+      "key": "flex-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/flex/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mantine.dev/core/modal/"

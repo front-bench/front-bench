@@ -59,6 +59,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/overview/getting-started"
     },
     {
+      "key": "flex-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/flex"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dialog"

@@ -59,6 +59,11 @@
       "reference": "https://react-bootstrap.github.io/docs/getting-started/introduction"
     },
     {
+      "key": "flex-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/layout/grid"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/modal"

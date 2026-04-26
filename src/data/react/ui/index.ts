@@ -185,6 +185,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'flex-component',
+      name: 'Flex Component',
+      type: 'feature',
+    },
+    {
       key: 'float-button-component',
       name: 'FloatButton Component',
       type: 'feature',

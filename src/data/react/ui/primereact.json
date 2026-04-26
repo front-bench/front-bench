@@ -59,6 +59,11 @@
       "reference": "https://primereact.org/configuration/"
     },
     {
+      "key": "flex-component",
+      "value": 0,
+      "reference": "https://primereact.org"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://primereact.org/dialog/"
