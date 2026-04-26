@@ -29,6 +29,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/overview"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/spinners"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"

@@ -29,6 +29,11 @@
       "reference": "https://primereact.org/speeddial/"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://primereact.org/progressspinner/"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://primereact.org/dropdown/"

@@ -29,6 +29,11 @@
       "reference": "https://ant.design/components/float-button"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://ant.design/components/spin"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://ant.design/components/dropdown"

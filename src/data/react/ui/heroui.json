@@ -29,6 +29,11 @@
       "reference": "https://www.heroui.com/docs/components"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/spinner"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/dropdown"

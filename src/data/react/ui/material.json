@@ -29,6 +29,11 @@
       "reference": "https://mui.com/material-ui/react-speed-dial/"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-progress/"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-menu/"

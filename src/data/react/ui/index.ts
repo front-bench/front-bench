@@ -240,6 +240,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'spinner-component',
+      name: 'Spinner Component',
+      type: 'feature',
+    },
+    {
       key: 'switch-component',
       name: 'Switch Component',
       type: 'feature',

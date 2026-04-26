@@ -29,6 +29,11 @@
       "reference": "https://chakra-ui.com/docs/components"
     },
     {
+      "key": "spinner-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/spinner"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/menu"

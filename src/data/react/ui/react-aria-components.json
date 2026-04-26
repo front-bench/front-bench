@@ -29,6 +29,11 @@
       "reference": "https://react-aria.adobe.com/"
     },
     {
+      "key": "spinner-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
+    },
+    {
       "key": "dropdown-menu-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Menu"
