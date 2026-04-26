@@ -49,6 +49,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/offcanvas"

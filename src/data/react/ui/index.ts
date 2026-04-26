@@ -280,6 +280,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'splitter-component',
+      name: 'Splitter Component',
+      type: 'feature',
+    },
+    {
       key: 'switch-component',
       name: 'Switch Component',
       type: 'feature',

@@ -49,6 +49,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "drawer-component",
       "value": 0,
       "reference": "https://headlessui.com/react/dialog"

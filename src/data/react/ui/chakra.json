@@ -49,6 +49,11 @@
       "reference": "https://chakra-ui.com/docs/components/separator"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/drawer"

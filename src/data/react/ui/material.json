@@ -49,6 +49,11 @@
       "reference": "https://mui.com/material-ui/react-divider/"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/getting-started/"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-drawer/"

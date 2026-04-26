@@ -49,6 +49,11 @@
       "reference": "https://mantine.dev/core/divider/"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://mantine.dev/core/drawer/"

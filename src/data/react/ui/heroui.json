@@ -49,6 +49,11 @@
       "reference": "https://www.heroui.com/docs/components/divider"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/drawer"

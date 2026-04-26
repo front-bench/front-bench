@@ -49,6 +49,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/separator"
     },
     {
+      "key": "splitter-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "drawer-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

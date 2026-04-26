@@ -49,6 +49,11 @@
       "reference": "https://ant.design/components/divider"
     },
     {
+      "key": "splitter-component",
+      "value": 1,
+      "reference": "https://ant.design/components/splitter"
+    },
+    {
       "key": "drawer-component",
       "value": 1,
       "reference": "https://ant.design/components/drawer"
