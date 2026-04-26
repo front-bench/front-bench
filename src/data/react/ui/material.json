@@ -79,6 +79,11 @@
       "reference": "https://mui.com/material-ui/react-pagination/"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-popover/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-radio-button/"

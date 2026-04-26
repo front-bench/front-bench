@@ -79,6 +79,11 @@
       "reference": "https://ant.design/components/pagination"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://ant.design/components/popover"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://ant.design/components/radio"

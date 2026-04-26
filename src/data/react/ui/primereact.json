@@ -79,6 +79,11 @@
       "reference": "https://primereact.org/paginator/"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://primereact.org/popover/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://primereact.org/radiobutton/"

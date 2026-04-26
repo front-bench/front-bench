@@ -79,6 +79,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/pagination"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/overlays#popovers"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"

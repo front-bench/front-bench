@@ -79,6 +79,11 @@
       "reference": "https://mantine.dev/core/pagination/"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/popover/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mantine.dev/core/radio/"

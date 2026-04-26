@@ -180,6 +180,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'popover-component',
+      name: 'Popover Component',
+      type: 'feature',
+    },
+    {
       key: 'radio-component',
       name: 'Radio Component',
       type: 'feature',

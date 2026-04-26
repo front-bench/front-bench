@@ -79,6 +79,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/popover"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://headlessui.com/react/radio-group"

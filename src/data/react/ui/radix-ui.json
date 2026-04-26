@@ -79,6 +79,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components"
     },
     {
+      "key": "popover-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/popover"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/radio-group"
