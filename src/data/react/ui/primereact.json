@@ -44,6 +44,11 @@
       "reference": "https://primereact.org/dropdown/"
     },
     {
+      "key": "context-menu-component",
+      "value": 1,
+      "reference": "https://primereact.org/contextmenu/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://primereact.org/dialog/"

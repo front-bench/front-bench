@@ -160,6 +160,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'context-menu-component',
+      name: 'ContextMenu Component',
+      type: 'feature',
+    },
+    {
       key: 'float-button-component',
       name: 'FloatButton Component',
       type: 'feature',

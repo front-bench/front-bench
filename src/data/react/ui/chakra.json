@@ -44,6 +44,11 @@
       "reference": "https://chakra-ui.com/docs/components/menu"
     },
     {
+      "key": "context-menu-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components/menu"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/dialog"

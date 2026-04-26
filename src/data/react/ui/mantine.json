@@ -44,6 +44,11 @@
       "reference": "https://mantine.dev/core/menu/"
     },
     {
+      "key": "context-menu-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/menu/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mantine.dev/core/modal/"

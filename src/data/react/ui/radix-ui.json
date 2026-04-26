@@ -44,6 +44,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/dropdown-menu"
     },
     {
+      "key": "context-menu-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/context-menu"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dialog"

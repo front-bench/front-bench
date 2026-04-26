@@ -44,6 +44,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"
     },
     {
+      "key": "context-menu-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components/dropdowns"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/modal"

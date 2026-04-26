@@ -44,6 +44,11 @@
       "reference": "https://headlessui.com/react/menu"
     },
     {
+      "key": "context-menu-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/menu"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://headlessui.com/react/dialog"

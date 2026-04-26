@@ -44,6 +44,11 @@
       "reference": "https://mui.com/material-ui/react-menu/"
     },
     {
+      "key": "context-menu-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-menu/#context-menu"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-dialog/"

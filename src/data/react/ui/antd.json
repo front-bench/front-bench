@@ -44,6 +44,11 @@
       "reference": "https://ant.design/components/dropdown"
     },
     {
+      "key": "context-menu-component",
+      "value": 1,
+      "reference": "https://ant.design/components/dropdown"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://ant.design/components/modal"

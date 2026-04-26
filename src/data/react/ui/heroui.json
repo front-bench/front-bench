@@ -44,6 +44,11 @@
       "reference": "https://www.heroui.com/docs/components/dropdown"
     },
     {
+      "key": "context-menu-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components/dropdown"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/modal"
