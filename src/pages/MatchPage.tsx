@@ -54,7 +54,7 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
           <>
             <div>{result.value.toLocaleString()}</div>
             <Typography.Text type="secondary">
-              Score: {(result.score * 100).toFixed(0)}
+              Score: {typeof result.score === 'number' ? (result.score * 100).toFixed(0) : '-'}
             </Typography.Text>
           </>
         );

@@ -1,6 +1,6 @@
 import type Match from '../../../types/Match';
-import antd from './antd';
-import material from './material';
+import antd from './antd.json';
+import material from './material.json';
 
 const ui: Match = {
   key: 'ui',

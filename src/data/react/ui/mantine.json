@@ -1,0 +1,12 @@
+{
+  "key": "@mantine/core",
+  "name": "Mantine",
+  "version": "9.x",
+  "results": [
+    {
+      "key": "button-bundle-size",
+      "value": 12345,
+      "score": 0.8
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "antd",
+  "name": "Ant Design",
+  "version": "6.x",
+  "results": [
+    {
+      "key": "button-bundle-size",
+      "value": 12345
+    }
+  ]
+}
