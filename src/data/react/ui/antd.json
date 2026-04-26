@@ -89,6 +89,11 @@
       "reference": "https://ant.design/components/input"
     },
     {
+      "key": "mention-component",
+      "value": 1,
+      "reference": "https://ant.design/components/mentions"
+    },
+    {
       "key": "input-group-component",
       "value": 1,
       "reference": "https://ant.design/components/input"

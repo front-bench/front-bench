@@ -190,6 +190,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'mention-component',
+      name: 'Mention Component',
+      type: 'feature',
+    },
+    {
       key: 'pagination-component',
       name: 'Pagination Component',
       type: 'feature',
