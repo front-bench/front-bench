@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://ant.design/components/collapse"
+    },
+    {
+      "key": "alert-component",
+      "value": 1,
+      "reference": "https://ant.design/components/alert"
     }
   ]
 }

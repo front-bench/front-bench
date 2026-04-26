@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://primereact.org/accordion/"
+    },
+    {
+      "key": "alert-component",
+      "value": 1,
+      "reference": "https://primereact.org/message/"
     }
   ]
 }

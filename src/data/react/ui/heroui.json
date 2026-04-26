@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/accordion"
+    },
+    {
+      "key": "alert-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/alert"
     }
   ]
 }

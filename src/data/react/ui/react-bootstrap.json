@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/accordion"
+    },
+    {
+      "key": "alert-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/alerts"
     }
   ]
 }

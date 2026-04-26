@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://mantine.dev/core/accordion/"
+    },
+    {
+      "key": "alert-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/alert/"
     }
   ]
 }

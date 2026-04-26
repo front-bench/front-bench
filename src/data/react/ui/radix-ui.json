@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/accordion"
+    },
+    {
+      "key": "alert-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components/callout"
     }
   ]
 }

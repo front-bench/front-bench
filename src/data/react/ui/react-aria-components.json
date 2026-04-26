@@ -72,6 +72,11 @@
       "key": "accordion-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/Disclosure"
+    },
+    {
+      "key": "alert-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/AlertDialog"
     }
   ]
 }

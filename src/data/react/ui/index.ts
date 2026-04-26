@@ -114,6 +114,11 @@ const ui: Match = {
       name: 'Accordion Component',
       type: 'feature',
     },
+    {
+      key: 'alert-component',
+      name: 'Alert Component',
+      type: 'feature',
+    },
   ],
 };
 
