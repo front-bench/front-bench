@@ -22,6 +22,11 @@
       "key": "speed-dial-component",
       "value": 0,
       "reference": "https://ant.design/components/float-button"
+    },
+    {
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://ant.design/components/dropdown"
     }
   ]
 }

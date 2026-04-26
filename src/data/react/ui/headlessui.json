@@ -22,6 +22,11 @@
       "key": "speed-dial-component",
       "value": 0,
       "reference": "https://headlessui.com/react"
+    },
+    {
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://headlessui.com/react/menu"
     }
   ]
 }

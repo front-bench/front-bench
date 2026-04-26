@@ -22,6 +22,11 @@
       "key": "speed-dial-component",
       "value": 0,
       "reference": "https://mantine.dev/core/affix/"
+    },
+    {
+      "key": "dropdown-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/menu/"
     }
   ]
 }

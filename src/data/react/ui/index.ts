@@ -64,6 +64,11 @@ const ui: Match = {
       name: 'SpeedDial Component',
       type: 'feature',
     },
+    {
+      key: 'dropdown-component',
+      name: 'Dropdown/Menu Component',
+      type: 'feature',
+    },
   ],
 };
 
