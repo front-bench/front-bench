@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/primereact"
     },
     {
+      "key": "anchor-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/primereact"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://primereact.org/button/"

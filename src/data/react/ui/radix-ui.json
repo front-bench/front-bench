@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/@radix-ui/themes"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/link"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/button"

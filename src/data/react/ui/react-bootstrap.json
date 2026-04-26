@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/react-bootstrap"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/navs/#navlink-props"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/buttons"

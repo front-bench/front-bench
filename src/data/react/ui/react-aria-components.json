@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/react-aria-components"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://react-spectrum.adobe.com/react-aria/Link.html"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Button"

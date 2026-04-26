@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/@headlessui/react"
     },
     {
+      "key": "anchor-component",
+      "value": 0,
+      "reference": "https://www.npmjs.com/package/@headlessui/react"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://headlessui.com/react/button"

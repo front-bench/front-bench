@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/@heroui/react"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/link"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/button"

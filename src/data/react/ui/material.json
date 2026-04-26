@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/@mui/material"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-link/"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-button/"

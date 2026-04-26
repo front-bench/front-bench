@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/@mantine/core"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/anchor/"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://mantine.dev/core/button/"

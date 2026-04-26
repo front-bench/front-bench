@@ -60,6 +60,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'anchor-component',
+      name: 'Anchor Component',
+      type: 'feature',
+    },
+    {
       key: 'autocomplete-component',
       name: 'Autocomplete Component',
       type: 'feature',

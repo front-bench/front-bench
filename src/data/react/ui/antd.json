@@ -9,6 +9,11 @@
       "reference": "https://www.npmjs.com/package/antd"
     },
     {
+      "key": "anchor-component",
+      "value": 1,
+      "reference": "https://ant.design/components/anchor"
+    },
+    {
       "key": "button-component",
       "value": 1,
       "reference": "https://ant.design/components/button"
