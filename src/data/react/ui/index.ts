@@ -124,6 +124,11 @@ const ui: Match = {
       name: 'Autocomplete Component',
       type: 'feature',
     },
+    {
+      key: 'avatar-component',
+      name: 'Avatar Component',
+      type: 'feature',
+    },
   ],
 };
 

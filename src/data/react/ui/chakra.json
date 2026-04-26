@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/combobox"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/avatar"
     }
   ]
 }

@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/avatar"
     }
   ]
 }

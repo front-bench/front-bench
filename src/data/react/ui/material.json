@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-autocomplete/"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-avatar/"
     }
   ]
 }

@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/autocomplete"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/avatar"
     }
   ]
 }

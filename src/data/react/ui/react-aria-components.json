@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/ComboBox"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Avatar"
     }
   ]
 }

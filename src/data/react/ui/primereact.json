@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://primereact.org/autocomplete/"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://primereact.org/avatar/"
     }
   ]
 }

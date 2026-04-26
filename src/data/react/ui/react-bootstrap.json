@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/forms/overview"
+    },
+    {
+      "key": "avatar-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components/images"
     }
   ]
 }

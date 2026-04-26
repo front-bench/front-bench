@@ -82,6 +82,11 @@
       "key": "autocomplete-component",
       "value": 1,
       "reference": "https://ant.design/components/auto-complete"
+    },
+    {
+      "key": "avatar-component",
+      "value": 1,
+      "reference": "https://ant.design/components/avatar"
     }
   ]
 }
