@@ -5,6 +5,7 @@ import groups from '../data';
 import type Spec from '../types/Spec';
 
 const HUMAN_READABLE_DOWNLOADS_SPEC_KEY = 'npm-weekly-downloads';
+const CANDIDATE_COLUMN_WIDTH = 220;
 
 function formatResultValue(specKey: string, value: number) {
   if (specKey === HUMAN_READABLE_DOWNLOADS_SPEC_KEY) {
@@ -62,6 +63,7 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
     ...candidates.map((candidate) => ({
       title: candidate.version ? `${candidate.name} (${candidate.version})` : candidate.name,
       key: candidate.key,
+      width: CANDIDATE_COLUMN_WIDTH,
       render: (_value: unknown, row: SpecRow) => {
         const result = candidate.results?.find((item) => item.key === row.specKey);
         if (!result) {
