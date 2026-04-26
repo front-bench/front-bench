@@ -309,6 +309,11 @@
       "reference": "https://mui.com/x/react-date-pickers/date-range-picker/"
     },
     {
+      "key": "container-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-container/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-card/"

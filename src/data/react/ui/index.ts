@@ -105,6 +105,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'container-component',
+      name: 'Container Component',
+      type: 'feature',
+    },
+    {
       key: 'card-component',
       name: 'Card Component',
       type: 'feature',

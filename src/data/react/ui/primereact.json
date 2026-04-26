@@ -309,6 +309,11 @@
       "reference": "https://primereact.org/calendar/"
     },
     {
+      "key": "container-component",
+      "value": 0,
+      "reference": "https://primereact.org/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://primereact.org/card/"

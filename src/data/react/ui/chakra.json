@@ -309,6 +309,11 @@
       "reference": "https://chakra-ui.com/docs/components"
     },
     {
+      "key": "container-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/container"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/card"

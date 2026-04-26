@@ -309,6 +309,11 @@
       "reference": "https://mantine.dev/dates/date-picker-input/"
     },
     {
+      "key": "container-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/container/"
+    },
+    {
       "key": "card-component",
       "value": 1,
       "reference": "https://mantine.dev/core/card/"
