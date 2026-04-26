@@ -54,6 +54,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/menubar"
     },
     {
+      "key": "config-provider-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/overview/getting-started"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dialog"

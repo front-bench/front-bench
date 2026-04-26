@@ -54,6 +54,11 @@
       "reference": "https://ant.design/components/menu"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://ant.design/components/config-provider"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://ant.design/components/modal"

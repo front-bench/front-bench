@@ -54,6 +54,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/navbar"
     },
     {
+      "key": "config-provider-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/getting-started/introduction"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/modal"

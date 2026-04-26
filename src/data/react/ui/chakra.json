@@ -54,6 +54,11 @@
       "reference": "https://chakra-ui.com/docs/components/menu"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/theming/overview"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/dialog"

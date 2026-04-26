@@ -180,6 +180,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'config-provider-component',
+      name: 'ConfigProvider Component',
+      type: 'feature',
+    },
+    {
       key: 'float-button-component',
       name: 'FloatButton Component',
       type: 'feature',

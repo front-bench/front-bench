@@ -54,6 +54,11 @@
       "reference": "https://www.heroui.com/docs/components"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/guide/installation"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/modal"

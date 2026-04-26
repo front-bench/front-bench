@@ -54,6 +54,11 @@
       "reference": "https://mui.com/material-ui/react-menu/"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/customization/theming/#theme-provider"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-dialog/"

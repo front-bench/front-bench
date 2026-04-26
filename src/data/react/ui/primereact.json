@@ -54,6 +54,11 @@
       "reference": "https://primereact.org/menubar/"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://primereact.org/configuration/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://primereact.org/dialog/"

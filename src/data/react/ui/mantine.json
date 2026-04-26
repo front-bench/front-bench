@@ -54,6 +54,11 @@
       "reference": "https://mantine.dev/core/menu/"
     },
     {
+      "key": "config-provider-component",
+      "value": 1,
+      "reference": "https://mantine.dev/theming/mantine-provider/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://mantine.dev/core/modal/"
