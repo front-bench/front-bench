@@ -309,6 +309,11 @@
       "reference": "https://react-aria.adobe.com/DateRangePicker"
     },
     {
+      "key": "transfer-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
+    },
+    {
       "key": "container-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

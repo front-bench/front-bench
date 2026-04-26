@@ -309,6 +309,11 @@
       "reference": "https://primereact.org/calendar/"
     },
     {
+      "key": "transfer-component",
+      "value": 1,
+      "reference": "https://primereact.org/picklist/"
+    },
+    {
       "key": "container-component",
       "value": 0,
       "reference": "https://primereact.org/"

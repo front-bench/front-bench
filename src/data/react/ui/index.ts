@@ -345,6 +345,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'transfer-component',
+      name: 'Transfer Component',
+      type: 'feature',
+    },
+    {
       key: 'toggle-button-component',
       name: 'ToggleButton Component',
       type: 'feature',

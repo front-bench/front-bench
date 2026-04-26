@@ -309,6 +309,11 @@
       "reference": "https://www.heroui.com/docs/components/date-range-picker"
     },
     {
+      "key": "transfer-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "container-component",
       "value": 0,
       "reference": "https://www.heroui.com/docs/components"

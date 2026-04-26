@@ -309,6 +309,11 @@
       "reference": "https://ant.design/components/date-picker"
     },
     {
+      "key": "transfer-component",
+      "value": 1,
+      "reference": "https://ant.design/components/transfer"
+    },
+    {
       "key": "container-component",
       "value": 0,
       "reference": "https://ant.design/components/layout"

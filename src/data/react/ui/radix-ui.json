@@ -309,6 +309,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components"
     },
     {
+      "key": "transfer-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
       "key": "container-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

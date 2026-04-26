@@ -309,6 +309,11 @@
       "reference": "https://mantine.dev/dates/date-picker-input/"
     },
     {
+      "key": "transfer-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/transfer-list/"
+    },
+    {
       "key": "container-component",
       "value": 1,
       "reference": "https://mantine.dev/core/container/"
