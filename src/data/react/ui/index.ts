@@ -50,71 +50,6 @@ const ui: Match = {
       max: 100000,
     },
     {
-      key: 'button-component',
-      name: 'Button Component',
-      type: 'feature',
-    },
-    {
-      key: 'float-button-component',
-      name: 'FloatButton Component',
-      type: 'feature',
-    },
-    {
-      key: 'speed-dial-component',
-      name: 'SpeedDial Component',
-      type: 'feature',
-    },
-    {
-      key: 'dropdown-menu-component',
-      name: 'Dropdown/Menu Component',
-      type: 'feature',
-    },
-    {
-      key: 'dialog-modal-component',
-      name: 'Dialog/Modal Component',
-      type: 'feature',
-    },
-    {
-      key: 'drawer-component',
-      name: 'Drawer Component',
-      type: 'feature',
-    },
-    {
-      key: 'tabs-component',
-      name: 'Tabs Component',
-      type: 'feature',
-    },
-    {
-      key: 'checkbox-component',
-      name: 'Checkbox Component',
-      type: 'feature',
-    },
-    {
-      key: 'input-component',
-      name: 'Input Component',
-      type: 'feature',
-    },
-    {
-      key: 'radio-component',
-      name: 'Radio Component',
-      type: 'feature',
-    },
-    {
-      key: 'select-component',
-      name: 'Select Component',
-      type: 'feature',
-    },
-    {
-      key: 'switch-component',
-      name: 'Switch Component',
-      type: 'feature',
-    },
-    {
-      key: 'textarea-component',
-      name: 'TextArea Component',
-      type: 'feature',
-    },
-    {
       key: 'accordion-component',
       name: 'Accordion Component',
       type: 'feature',
@@ -145,6 +80,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'button-component',
+      name: 'Button Component',
+      type: 'feature',
+    },
+    {
       key: 'button-group-component',
       name: 'ButtonGroup Component',
       type: 'feature',
@@ -155,18 +95,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'date-picker-component',
-      name: 'DatePicker Component',
-      type: 'feature',
-    },
-    {
-      key: 'date-range-picker-component',
-      name: 'DateRangePicker Component',
-      type: 'feature',
-    },
-    {
       key: 'card-component',
       name: 'Card Component',
+      type: 'feature',
+    },
+    {
+      key: 'checkbox-component',
+      name: 'Checkbox Component',
       type: 'feature',
     },
     {
@@ -182,6 +117,71 @@ const ui: Match = {
     {
       key: 'color-picker-component',
       name: 'ColorPicker Component',
+      type: 'feature',
+    },
+    {
+      key: 'date-picker-component',
+      name: 'DatePicker Component',
+      type: 'feature',
+    },
+    {
+      key: 'date-range-picker-component',
+      name: 'DateRangePicker Component',
+      type: 'feature',
+    },
+    {
+      key: 'dialog-modal-component',
+      name: 'Dialog/Modal Component',
+      type: 'feature',
+    },
+    {
+      key: 'drawer-component',
+      name: 'Drawer Component',
+      type: 'feature',
+    },
+    {
+      key: 'dropdown-menu-component',
+      name: 'Dropdown/Menu Component',
+      type: 'feature',
+    },
+    {
+      key: 'float-button-component',
+      name: 'FloatButton Component',
+      type: 'feature',
+    },
+    {
+      key: 'input-component',
+      name: 'Input Component',
+      type: 'feature',
+    },
+    {
+      key: 'radio-component',
+      name: 'Radio Component',
+      type: 'feature',
+    },
+    {
+      key: 'select-component',
+      name: 'Select Component',
+      type: 'feature',
+    },
+    {
+      key: 'speed-dial-component',
+      name: 'SpeedDial Component',
+      type: 'feature',
+    },
+    {
+      key: 'switch-component',
+      name: 'Switch Component',
+      type: 'feature',
+    },
+    {
+      key: 'tabs-component',
+      name: 'Tabs Component',
+      type: 'feature',
+    },
+    {
+      key: 'textarea-component',
+      name: 'TextArea Component',
       type: 'feature',
     },
   ],
