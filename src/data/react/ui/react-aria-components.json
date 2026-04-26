@@ -139,6 +139,11 @@
       "reference": "https://react-aria.adobe.com/Popover"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/Popover"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/ProgressBar"

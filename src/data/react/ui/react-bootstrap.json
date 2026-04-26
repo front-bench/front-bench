@@ -139,6 +139,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/overlays#popovers"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components/overlays#popovers"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/progress"

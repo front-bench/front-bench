@@ -210,6 +210,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'popup-confirm-component',
+      name: 'PopupConfirm Component',
+      type: 'feature',
+    },
+    {
       key: 'progress-bar-component',
       name: 'ProgressBar Component',
       type: 'feature',

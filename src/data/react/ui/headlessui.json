@@ -139,6 +139,11 @@
       "reference": "https://headlessui.com/react/popover"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/popover"
+    },
+    {
       "key": "progress-bar-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

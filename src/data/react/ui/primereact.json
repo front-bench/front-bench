@@ -139,6 +139,11 @@
       "reference": "https://primereact.org/popover/"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 1,
+      "reference": "https://primereact.org/confirmpopup/"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://primereact.org/progressbar/"

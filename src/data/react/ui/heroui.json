@@ -139,6 +139,11 @@
       "reference": "https://www.heroui.com/docs/components/popover"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components/popover"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/progress"

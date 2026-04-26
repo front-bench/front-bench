@@ -139,6 +139,11 @@
       "reference": "https://ant.design/components/popover"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 1,
+      "reference": "https://ant.design/components/popconfirm"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://ant.design/components/progress"

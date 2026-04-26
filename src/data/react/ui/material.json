@@ -139,6 +139,11 @@
       "reference": "https://mui.com/material-ui/react-popover/"
     },
     {
+      "key": "popup-confirm-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-popover/"
+    },
+    {
       "key": "progress-bar-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-progress/"
