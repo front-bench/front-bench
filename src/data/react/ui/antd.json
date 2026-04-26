@@ -49,6 +49,11 @@
       "reference": "https://ant.design/components/dropdown"
     },
     {
+      "key": "menubar-component",
+      "value": 1,
+      "reference": "https://ant.design/components/menu"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://ant.design/components/modal"

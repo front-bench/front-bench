@@ -49,6 +49,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/context-menu"
     },
     {
+      "key": "menubar-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/menubar"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/dialog"

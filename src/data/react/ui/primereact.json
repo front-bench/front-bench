@@ -49,6 +49,11 @@
       "reference": "https://primereact.org/contextmenu/"
     },
     {
+      "key": "menubar-component",
+      "value": 1,
+      "reference": "https://primereact.org/menubar/"
+    },
+    {
       "key": "dialog-modal-component",
       "value": 1,
       "reference": "https://primereact.org/dialog/"

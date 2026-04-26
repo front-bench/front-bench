@@ -175,6 +175,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'menubar-component',
+      name: 'Menubar Component',
+      type: 'feature',
+    },
+    {
       key: 'float-button-component',
       name: 'FloatButton Component',
       type: 'feature',
