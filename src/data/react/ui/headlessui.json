@@ -109,6 +109,11 @@
       "reference": "https://headlessui.com/react"
     },
     {
+      "key": "input-password-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/input"
+    },
+    {
       "key": "pagination-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

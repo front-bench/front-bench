@@ -190,6 +190,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'input-password-component',
+      name: 'InputPassword Component',
+      type: 'feature',
+    },
+    {
       key: 'mention-component',
       name: 'Mention Component',
       type: 'feature',

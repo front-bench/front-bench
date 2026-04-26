@@ -109,6 +109,11 @@
       "reference": "https://www.heroui.com/docs/components"
     },
     {
+      "key": "input-password-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components/input"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/pagination"

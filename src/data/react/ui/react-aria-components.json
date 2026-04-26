@@ -109,6 +109,11 @@
       "reference": "https://react-aria.adobe.com/"
     },
     {
+      "key": "input-password-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/TextField"
+    },
+    {
       "key": "pagination-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"

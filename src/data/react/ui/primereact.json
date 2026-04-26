@@ -109,6 +109,11 @@
       "reference": "https://primereact.org/inputotp/"
     },
     {
+      "key": "input-password-component",
+      "value": 1,
+      "reference": "https://primereact.org/password/"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://primereact.org/paginator/"

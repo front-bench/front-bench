@@ -109,6 +109,11 @@
       "reference": "https://mantine.dev/core/pin-input/"
     },
     {
+      "key": "input-password-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/password-input/"
+    },
+    {
       "key": "pagination-component",
       "value": 1,
       "reference": "https://mantine.dev/core/pagination/"
