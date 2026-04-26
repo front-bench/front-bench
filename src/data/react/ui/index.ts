@@ -61,7 +61,7 @@ const ui: Match = {
     },
     {
       key: 'speed-dial-component',
-      name: 'Speed Dial Component',
+      name: 'SpeedDial Component',
       type: 'feature',
     },
   ],
