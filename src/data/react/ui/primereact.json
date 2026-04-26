@@ -114,6 +114,11 @@
       "reference": "https://primereact.org/scrollpanel/"
     },
     {
+      "key": "search-component",
+      "value": 0,
+      "reference": "https://primereact.org/inputtext/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://primereact.org/inputswitch/"

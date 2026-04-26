@@ -114,6 +114,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components"
     },
     {
+      "key": "search-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios#switches"

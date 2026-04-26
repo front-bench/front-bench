@@ -114,6 +114,11 @@
       "reference": "https://chakra-ui.com/docs/components/scroll-area"
     },
     {
+      "key": "search-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/switch"

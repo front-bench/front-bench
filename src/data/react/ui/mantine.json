@@ -114,6 +114,11 @@
       "reference": "https://mantine.dev/core/scroll-area/"
     },
     {
+      "key": "search-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/text-input/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://mantine.dev/core/switch/"

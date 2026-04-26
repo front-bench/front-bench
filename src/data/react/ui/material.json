@@ -114,6 +114,11 @@
       "reference": "https://mui.com/material-ui/react-box/"
     },
     {
+      "key": "search-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-text-field/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-switch/"

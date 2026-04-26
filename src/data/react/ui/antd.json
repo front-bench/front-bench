@@ -114,6 +114,11 @@
       "reference": "https://ant.design/components"
     },
     {
+      "key": "search-component",
+      "value": 1,
+      "reference": "https://ant.design/components/input"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://ant.design/components/switch"
