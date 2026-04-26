@@ -60,11 +60,6 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'toast-component',
-      name: 'Toast Component',
-      type: 'feature',
-    },
-    {
       key: 'autocomplete-component',
       name: 'Autocomplete Component',
       type: 'feature',
@@ -100,18 +95,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'carousel-component',
-      name: 'Carousel Component',
-      type: 'feature',
-    },
-    {
-      key: 'container-component',
-      name: 'Container Component',
-      type: 'feature',
-    },
-    {
       key: 'card-component',
       name: 'Card Component',
+      type: 'feature',
+    },
+    {
+      key: 'carousel-component',
+      name: 'Carousel Component',
       type: 'feature',
     },
     {
@@ -137,6 +127,21 @@ const ui: Match = {
     {
       key: 'color-picker-component',
       name: 'ColorPicker Component',
+      type: 'feature',
+    },
+    {
+      key: 'config-provider-component',
+      name: 'ConfigProvider Component',
+      type: 'feature',
+    },
+    {
+      key: 'container-component',
+      name: 'Container Component',
+      type: 'feature',
+    },
+    {
+      key: 'context-menu-component',
+      name: 'ContextMenu Component',
       type: 'feature',
     },
     {
@@ -167,26 +172,6 @@ const ui: Match = {
     {
       key: 'dropdown-component',
       name: 'Dropdown Component',
-      type: 'feature',
-    },
-    {
-      key: 'menu-component',
-      name: 'Menu Component',
-      type: 'feature',
-    },
-    {
-      key: 'context-menu-component',
-      name: 'ContextMenu Component',
-      type: 'feature',
-    },
-    {
-      key: 'menubar-component',
-      name: 'Menubar Component',
-      type: 'feature',
-    },
-    {
-      key: 'config-provider-component',
-      name: 'ConfigProvider Component',
       type: 'feature',
     },
     {
@@ -240,6 +225,16 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'menu-component',
+      name: 'Menu Component',
+      type: 'feature',
+    },
+    {
+      key: 'menubar-component',
+      name: 'Menubar Component',
+      type: 'feature',
+    },
+    {
       key: 'mention-component',
       name: 'Mention Component',
       type: 'feature',
@@ -285,26 +280,6 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'select-component',
-      name: 'Select Component',
-      type: 'feature',
-    },
-    {
-      key: 'tree-select-component',
-      name: 'TreeSelect Component',
-      type: 'feature',
-    },
-    {
-      key: 'tree-component',
-      name: 'Tree Component',
-      type: 'feature',
-    },
-    {
-      key: 'slider-component',
-      name: 'Slider Component',
-      type: 'feature',
-    },
-    {
       key: 'scroll-shadow-component',
       name: 'ScrollShadow Component',
       type: 'feature',
@@ -315,8 +290,18 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'select-component',
+      name: 'Select Component',
+      type: 'feature',
+    },
+    {
       key: 'skeleton-component',
       name: 'Skeleton Component',
+      type: 'feature',
+    },
+    {
+      key: 'slider-component',
+      name: 'Slider Component',
       type: 'feature',
     },
     {
@@ -340,13 +325,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'switch-component',
-      name: 'Switch Component',
+      key: 'surface-component',
+      name: 'Surface Component',
       type: 'feature',
     },
     {
-      key: 'surface-component',
-      name: 'Surface Component',
+      key: 'switch-component',
+      name: 'Switch Component',
       type: 'feature',
     },
     {
@@ -355,8 +340,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'timeline-component',
-      name: 'Timeline Component',
+      key: 'tabs-component',
+      name: 'Tabs Component',
+      type: 'feature',
+    },
+    {
+      key: 'textarea-component',
+      name: 'TextArea Component',
       type: 'feature',
     },
     {
@@ -370,8 +360,13 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'transfer-component',
-      name: 'Transfer Component',
+      key: 'timeline-component',
+      name: 'Timeline Component',
+      type: 'feature',
+    },
+    {
+      key: 'toast-component',
+      name: 'Toast Component',
       type: 'feature',
     },
     {
@@ -395,13 +390,18 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'upload-component',
-      name: 'Upload Component',
+      key: 'transfer-component',
+      name: 'Transfer Component',
       type: 'feature',
     },
     {
-      key: 'tabs-component',
-      name: 'Tabs Component',
+      key: 'tree-component',
+      name: 'Tree Component',
+      type: 'feature',
+    },
+    {
+      key: 'tree-select-component',
+      name: 'TreeSelect Component',
       type: 'feature',
     },
     {
@@ -410,8 +410,8 @@ const ui: Match = {
       type: 'feature',
     },
     {
-      key: 'textarea-component',
-      name: 'TextArea Component',
+      key: 'upload-component',
+      name: 'Upload Component',
       type: 'feature',
     },
   ],
