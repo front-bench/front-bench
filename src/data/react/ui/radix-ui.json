@@ -17,6 +17,11 @@
       "key": "float-button-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"
+    },
+    {
+      "key": "speed-dial-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components"
     }
   ]
 }

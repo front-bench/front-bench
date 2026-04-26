@@ -17,6 +17,11 @@
       "key": "float-button-component",
       "value": 0,
       "reference": "https://react-spectrum.adobe.com/react-aria/components.html"
+    },
+    {
+      "key": "speed-dial-component",
+      "value": 0,
+      "reference": "https://react-spectrum.adobe.com/react-aria/components.html"
     }
   ]
 }

@@ -17,6 +17,11 @@
       "key": "float-button-component",
       "value": 0,
       "reference": "https://headlessui.com/react"
+    },
+    {
+      "key": "speed-dial-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
     }
   ]
 }

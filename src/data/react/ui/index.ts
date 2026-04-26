@@ -59,6 +59,11 @@ const ui: Match = {
       name: 'FloatButton Component',
       type: 'feature',
     },
+    {
+      key: 'speed-dial-component',
+      name: 'Speed Dial Component',
+      type: 'feature',
+    },
   ],
 };
 
