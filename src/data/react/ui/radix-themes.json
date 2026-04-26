@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 528913
+      "value": 528913,
+      "reference": "https://www.npmjs.com/package/@radix-ui/themes"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/button"
     }
   ]
 }

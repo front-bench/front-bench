@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 261702
+      "value": 261702,
+      "reference": "https://www.npmjs.com/package/@heroui/react"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/button"
     }
   ]
 }

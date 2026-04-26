@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 5220645
+      "value": 5220645,
+      "reference": "https://www.npmjs.com/package/@headlessui/react"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://headlessui.com/react/button"
     }
   ]
 }

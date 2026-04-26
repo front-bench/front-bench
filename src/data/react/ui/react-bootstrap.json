@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 1537672
+      "value": 1537672,
+      "reference": "https://www.npmjs.com/package/react-bootstrap"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/buttons"
     }
   ]
 }

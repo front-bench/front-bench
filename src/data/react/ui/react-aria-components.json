@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 2262500
+      "value": 2262500,
+      "reference": "https://www.npmjs.com/package/react-aria-components"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://react-spectrum.adobe.com/react-aria/Button.html"
     }
   ]
 }

@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 312679
+      "value": 312679,
+      "reference": "https://www.npmjs.com/package/primereact"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://primereact.org/button/"
     }
   ]
 }

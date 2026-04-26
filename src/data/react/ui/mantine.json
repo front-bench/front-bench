@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 1558392
+      "value": 1558392,
+      "reference": "https://www.npmjs.com/package/@mantine/core"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://mantine.dev/core/button/"
     }
   ]
 }

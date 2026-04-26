@@ -72,18 +72,26 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
 
         if (row.specType === 'feature') {
           if (result.value === 1) {
-            return <CheckCircleFilled style={{ color: '#389e0d', fontSize: 16 }} />;
+            return (
+              <Typography.Link href={result.reference} target="_blank" rel="noreferrer">
+                <CheckCircleFilled style={{ color: '#389e0d', fontSize: 16 }} />
+              </Typography.Link>
+            );
           }
 
           if (result.value === 0) {
-            return <CloseCircleFilled style={{ color: '#cf1322', fontSize: 16 }} />;
+            return (
+              <Typography.Link href={result.reference} target="_blank" rel="noreferrer">
+                <CloseCircleFilled style={{ color: '#cf1322', fontSize: 16 }} />
+              </Typography.Link>
+            );
           }
         }
 
         return (
-          <>
-            <div>{formatResultValue(row.specKey, result.value)}</div>
-          </>
+          <Typography.Link href={result.reference} target="_blank" rel="noreferrer">
+            {formatResultValue(row.specKey, result.value)}
+          </Typography.Link>
         );
       },
     })),

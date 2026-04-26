@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 8480750
+      "value": 8480750,
+      "reference": "https://www.npmjs.com/package/@mui/material"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-button/"
     }
   ]
 }

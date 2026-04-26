@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 2964212
+      "value": 2964212,
+      "reference": "https://www.npmjs.com/package/antd"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://ant.design/components/button"
     }
   ]
 }

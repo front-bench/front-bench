@@ -5,11 +5,13 @@
   "results": [
     {
       "key": "npm-weekly-downloads",
-      "value": 1343936
+      "value": 1343936,
+      "reference": "https://www.npmjs.com/package/@chakra-ui/react"
     },
     {
       "key": "button-component",
-      "value": 1
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/button"
     }
   ]
 }
