@@ -275,6 +275,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'toggle-button-component',
+      name: 'ToggleButton Component',
+      type: 'feature',
+    },
+    {
       key: 'toolbar-component',
       name: 'Toolbar Component',
       type: 'feature',

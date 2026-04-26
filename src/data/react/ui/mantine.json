@@ -164,6 +164,11 @@
       "reference": "https://mantine.dev/core/switch/"
     },
     {
+      "key": "toggle-button-component",
+      "value": 0,
+      "reference": "https://mantine.dev/core/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mantine.dev/core/paper/"

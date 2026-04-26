@@ -164,6 +164,11 @@
       "reference": "https://mui.com/material-ui/react-switch/"
     },
     {
+      "key": "toggle-button-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-toggle-button/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-paper/"

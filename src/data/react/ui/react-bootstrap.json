@@ -164,6 +164,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios#switches"
     },
     {
+      "key": "toggle-button-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/buttons#checkbox-radio"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/components"

@@ -164,6 +164,11 @@
       "reference": "https://headlessui.com/react/switch"
     },
     {
+      "key": "toggle-button-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

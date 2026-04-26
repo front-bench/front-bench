@@ -164,6 +164,11 @@
       "reference": "https://ant.design/components/switch"
     },
     {
+      "key": "toggle-button-component",
+      "value": 0,
+      "reference": "https://ant.design/components/button"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://ant.design/components"

@@ -164,6 +164,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/switch"
     },
     {
+      "key": "toggle-button-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/segmented-control"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components"

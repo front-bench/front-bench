@@ -164,6 +164,11 @@
       "reference": "https://chakra-ui.com/docs/components/switch"
     },
     {
+      "key": "toggle-button-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/toggle-tip"
+    },
+    {
       "key": "surface-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components"

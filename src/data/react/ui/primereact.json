@@ -164,6 +164,11 @@
       "reference": "https://primereact.org/inputswitch/"
     },
     {
+      "key": "toggle-button-component",
+      "value": 1,
+      "reference": "https://primereact.org/togglebutton/"
+    },
+    {
       "key": "surface-component",
       "value": 1,
       "reference": "https://primereact.org/panel/"
