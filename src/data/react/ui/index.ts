@@ -240,6 +240,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'tree-select-component',
+      name: 'TreeSelect Component',
+      type: 'feature',
+    },
+    {
       key: 'slider-component',
       name: 'Slider Component',
       type: 'feature',

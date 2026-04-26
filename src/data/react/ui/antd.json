@@ -154,6 +154,11 @@
       "reference": "https://ant.design/components/select"
     },
     {
+      "key": "tree-select-component",
+      "value": 1,
+      "reference": "https://ant.design/components/tree-select"
+    },
+    {
       "key": "cascade-select-component",
       "value": 1,
       "reference": "https://ant.design/components/cascader"

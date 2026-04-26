@@ -154,6 +154,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components/select"
     },
     {
+      "key": "tree-select-component",
+      "value": 0,
+      "reference": "https://www.radix-ui.com/themes/docs/components/select"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://www.radix-ui.com/themes/docs/components/select"

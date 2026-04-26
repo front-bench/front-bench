@@ -154,6 +154,11 @@
       "reference": "https://headlessui.com/react/listbox"
     },
     {
+      "key": "tree-select-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/listbox"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://headlessui.com/react/listbox"

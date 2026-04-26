@@ -154,6 +154,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/select"
     },
     {
+      "key": "tree-select-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/select"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://react-bootstrap.github.io/docs/forms/select"

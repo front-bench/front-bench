@@ -154,6 +154,11 @@
       "reference": "https://mui.com/material-ui/react-select/"
     },
     {
+      "key": "tree-select-component",
+      "value": 0,
+      "reference": "https://mui.com/material-ui/react-select/"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://mui.com/material-ui/react-select/"
