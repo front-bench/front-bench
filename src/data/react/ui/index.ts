@@ -245,6 +245,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'tree-component',
+      name: 'Tree Component',
+      type: 'feature',
+    },
+    {
       key: 'slider-component',
       name: 'Slider Component',
       type: 'feature',

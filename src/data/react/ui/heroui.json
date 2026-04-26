@@ -159,6 +159,11 @@
       "reference": "https://www.heroui.com/docs/components/select"
     },
     {
+      "key": "tree-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://www.heroui.com/docs/components/select"

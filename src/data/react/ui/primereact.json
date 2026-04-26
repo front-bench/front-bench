@@ -159,6 +159,11 @@
       "reference": "https://primereact.org/treeselect/"
     },
     {
+      "key": "tree-component",
+      "value": 1,
+      "reference": "https://primereact.org/tree/"
+    },
+    {
       "key": "slider-component",
       "value": 1,
       "reference": "https://primereact.org/slider/"

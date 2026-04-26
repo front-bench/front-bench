@@ -159,6 +159,11 @@
       "reference": "https://mantine.dev/core/select/"
     },
     {
+      "key": "tree-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/tree/"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://mantine.dev/core/select/"

@@ -159,6 +159,11 @@
       "reference": "https://react-aria.adobe.com/Select"
     },
     {
+      "key": "tree-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Tree"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/Select"

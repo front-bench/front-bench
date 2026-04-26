@@ -159,6 +159,11 @@
       "reference": "https://chakra-ui.com/docs/components/select"
     },
     {
+      "key": "tree-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/tree-view"
+    },
+    {
       "key": "cascade-select-component",
       "value": 0,
       "reference": "https://chakra-ui.com/docs/components/select"
