@@ -64,6 +64,11 @@
       "reference": "https://chakra-ui.com/docs/components/input"
     },
     {
+      "key": "input-otp-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/pin-input"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/radio"

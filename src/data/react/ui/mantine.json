@@ -64,6 +64,11 @@
       "reference": "https://mantine.dev/core/input/"
     },
     {
+      "key": "input-otp-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/pin-input/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mantine.dev/core/radio/"
