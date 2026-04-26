@@ -84,6 +84,11 @@
       "reference": "https://chakra-ui.com/docs/components/popover"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://chakra-ui.com/docs/components/progress"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/radio"

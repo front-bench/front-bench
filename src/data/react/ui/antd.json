@@ -84,6 +84,11 @@
       "reference": "https://ant.design/components/popover"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://ant.design/components/progress"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://ant.design/components/radio"

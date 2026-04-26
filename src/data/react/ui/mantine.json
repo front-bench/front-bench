@@ -84,6 +84,11 @@
       "reference": "https://mantine.dev/core/popover/"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/progress/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mantine.dev/core/radio/"

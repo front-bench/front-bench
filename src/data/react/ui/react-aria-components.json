@@ -84,6 +84,11 @@
       "reference": "https://react-aria.adobe.com/Popover"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/ProgressBar"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/RadioGroup"

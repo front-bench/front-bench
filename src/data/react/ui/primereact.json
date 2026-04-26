@@ -84,6 +84,11 @@
       "reference": "https://primereact.org/popover/"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://primereact.org/progressbar/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://primereact.org/radiobutton/"

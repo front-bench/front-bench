@@ -84,6 +84,11 @@
       "reference": "https://www.heroui.com/docs/components/popover"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/progress"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/radio"

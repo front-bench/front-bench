@@ -84,6 +84,11 @@
       "reference": "https://mui.com/material-ui/react-popover/"
     },
     {
+      "key": "progress-bar-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-progress/"
+    },
+    {
       "key": "radio-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-radio-button/"

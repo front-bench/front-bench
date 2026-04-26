@@ -185,6 +185,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'progress-bar-component',
+      name: 'ProgressBar Component',
+      type: 'feature',
+    },
+    {
       key: 'radio-component',
       name: 'Radio Component',
       type: 'feature',
