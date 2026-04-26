@@ -139,6 +139,11 @@
       "reference": "https://ant.design/components/select"
     },
     {
+      "key": "cascade-select-component",
+      "value": 1,
+      "reference": "https://ant.design/components/cascader"
+    },
+    {
       "key": "slider-component",
       "value": 1,
       "reference": "https://ant.design/components/slider"

@@ -154,6 +154,11 @@
       "reference": "https://primereact.org/inputtext/"
     },
     {
+      "key": "cascade-select-component",
+      "value": 1,
+      "reference": "https://primereact.org/cascadeselect/"
+    },
+    {
       "key": "skeleton-component",
       "value": 1,
       "reference": "https://primereact.org/skeleton/"

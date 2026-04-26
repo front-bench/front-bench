@@ -139,6 +139,11 @@
       "reference": "https://chakra-ui.com/docs/components/select"
     },
     {
+      "key": "cascade-select-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components/select"
+    },
+    {
       "key": "slider-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/slider"

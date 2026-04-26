@@ -139,6 +139,11 @@
       "reference": "https://headlessui.com/react/listbox"
     },
     {
+      "key": "cascade-select-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react/listbox"
+    },
+    {
       "key": "slider-component",
       "value": 0,
       "reference": "https://headlessui.com/react"

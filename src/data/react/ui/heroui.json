@@ -139,6 +139,11 @@
       "reference": "https://www.heroui.com/docs/components/select"
     },
     {
+      "key": "cascade-select-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components/select"
+    },
+    {
       "key": "slider-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/slider"

@@ -139,6 +139,11 @@
       "reference": "https://react-aria.adobe.com/Select"
     },
     {
+      "key": "cascade-select-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/Select"
+    },
+    {
       "key": "slider-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Slider"

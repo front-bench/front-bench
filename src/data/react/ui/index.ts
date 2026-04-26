@@ -105,6 +105,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'cascade-select-component',
+      name: 'CascadeSelect Component',
+      type: 'feature',
+    },
+    {
       key: 'checkbox-component',
       name: 'Checkbox Component',
       type: 'feature',
