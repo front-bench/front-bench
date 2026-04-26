@@ -104,6 +104,11 @@ const ui: Match = {
       name: 'Switch Component',
       type: 'feature',
     },
+    {
+      key: 'textarea-component',
+      name: 'TextArea Component',
+      type: 'feature',
+    },
   ],
 };
 
