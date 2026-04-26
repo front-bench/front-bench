@@ -75,6 +75,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'drawer-component',
+      name: 'Drawer Component',
+      type: 'feature',
+    },
+    {
       key: 'tabs-component',
       name: 'Tabs Component',
       type: 'feature',

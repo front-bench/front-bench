@@ -34,6 +34,11 @@
       "reference": "https://react-bootstrap.github.io/docs/components/modal"
     },
     {
+      "key": "drawer-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/components/offcanvas"
+    },
+    {
       "key": "tabs-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/tabs"

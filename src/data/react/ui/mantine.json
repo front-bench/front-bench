@@ -34,6 +34,11 @@
       "reference": "https://mantine.dev/core/modal/"
     },
     {
+      "key": "drawer-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/drawer/"
+    },
+    {
       "key": "tabs-component",
       "value": 1,
       "reference": "https://mantine.dev/core/tabs/"
