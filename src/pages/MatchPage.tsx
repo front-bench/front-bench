@@ -2,6 +2,19 @@ import { Table, Typography } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import groups from '../data';
 
+const HUMAN_READABLE_DOWNLOADS_SPEC_KEY = 'npm-weekly-downloads';
+
+function formatResultValue(specKey: string, value: number) {
+  if (specKey === HUMAN_READABLE_DOWNLOADS_SPEC_KEY) {
+    return new Intl.NumberFormat('en', {
+      notation: 'compact',
+      maximumFractionDigits: 1,
+    }).format(value);
+  }
+
+  return value.toLocaleString();
+}
+
 interface SpecRow {
   key: string;
   specName: string;
@@ -52,7 +65,7 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
         }
         return (
           <>
-            <div>{result.value.toLocaleString()}</div>
+            <div>{formatResultValue(row.specKey, result.value)}</div>
           </>
         );
       },
