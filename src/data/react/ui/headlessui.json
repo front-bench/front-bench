@@ -102,6 +102,11 @@
       "key": "button-group-component",
       "value": 0,
       "reference": "https://headlessui.com/react"
+    },
+    {
+      "key": "calendar-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
     }
   ]
 }

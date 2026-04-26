@@ -102,6 +102,11 @@
       "key": "button-group-component",
       "value": 1,
       "reference": "https://mantine.dev/core/button-group/"
+    },
+    {
+      "key": "calendar-component",
+      "value": 1,
+      "reference": "https://mantine.dev/dates/calendar/"
     }
   ]
 }

@@ -102,6 +102,11 @@
       "key": "button-group-component",
       "value": 0,
       "reference": "https://react-aria.adobe.com/"
+    },
+    {
+      "key": "calendar-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/Calendar"
     }
   ]
 }

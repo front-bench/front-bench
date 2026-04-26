@@ -144,6 +144,11 @@ const ui: Match = {
       name: 'ButtonGroup Component',
       type: 'feature',
     },
+    {
+      key: 'calendar-component',
+      name: 'Calendar Component',
+      type: 'feature',
+    },
   ],
 };
 

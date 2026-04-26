@@ -102,6 +102,11 @@
       "key": "button-group-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/components/button-group"
+    },
+    {
+      "key": "calendar-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/forms/form-control"
     }
   ]
 }
