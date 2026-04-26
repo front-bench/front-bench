@@ -144,6 +144,11 @@
       "reference": "https://primereact.org/radiobutton/"
     },
     {
+      "key": "rating-component",
+      "value": 1,
+      "reference": "https://primereact.org/rating/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://primereact.org/select/"

@@ -144,6 +144,11 @@
       "reference": "https://mui.com/material-ui/react-radio-button/"
     },
     {
+      "key": "rating-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-rating/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-select/"

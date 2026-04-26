@@ -144,6 +144,11 @@
       "reference": "https://mantine.dev/core/radio/"
     },
     {
+      "key": "rating-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/rating/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://mantine.dev/core/select/"

@@ -230,6 +230,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'rating-component',
+      name: 'Rating Component',
+      type: 'feature',
+    },
+    {
       key: 'select-component',
       name: 'Select Component',
       type: 'feature',

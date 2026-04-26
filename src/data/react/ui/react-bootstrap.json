@@ -144,6 +144,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"
     },
     {
+      "key": "rating-component",
+      "value": 0,
+      "reference": "https://react-bootstrap.github.io/docs/components"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/select"

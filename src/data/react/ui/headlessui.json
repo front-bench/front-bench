@@ -144,6 +144,11 @@
       "reference": "https://headlessui.com/react/radio-group"
     },
     {
+      "key": "rating-component",
+      "value": 0,
+      "reference": "https://headlessui.com/react"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://headlessui.com/react/listbox"

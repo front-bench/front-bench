@@ -144,6 +144,11 @@
       "reference": "https://chakra-ui.com/docs/components/radio"
     },
     {
+      "key": "rating-component",
+      "value": 0,
+      "reference": "https://chakra-ui.com/docs/components"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://chakra-ui.com/docs/components/select"

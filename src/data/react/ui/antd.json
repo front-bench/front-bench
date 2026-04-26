@@ -144,6 +144,11 @@
       "reference": "https://ant.design/components/radio"
     },
     {
+      "key": "rating-component",
+      "value": 1,
+      "reference": "https://ant.design/components/rate"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://ant.design/components/select"

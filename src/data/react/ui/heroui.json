@@ -144,6 +144,11 @@
       "reference": "https://www.heroui.com/docs/components/radio-group"
     },
     {
+      "key": "rating-component",
+      "value": 0,
+      "reference": "https://www.heroui.com/docs/components"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/select"
