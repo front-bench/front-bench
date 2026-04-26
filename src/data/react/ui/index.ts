@@ -200,6 +200,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'radio-group-component',
+      name: 'RadioGroup Component',
+      type: 'feature',
+    },
+    {
       key: 'select-component',
       name: 'Select Component',
       type: 'feature',

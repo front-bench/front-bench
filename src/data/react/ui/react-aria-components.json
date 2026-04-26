@@ -99,6 +99,11 @@
       "reference": "https://react-aria.adobe.com/RadioGroup"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://react-aria.adobe.com/RadioGroup"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Select"

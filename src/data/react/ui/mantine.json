@@ -99,6 +99,11 @@
       "reference": "https://mantine.dev/core/radio/"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://mantine.dev/core/radio/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://mantine.dev/core/select/"

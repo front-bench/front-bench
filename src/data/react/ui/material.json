@@ -99,6 +99,11 @@
       "reference": "https://mui.com/material-ui/react-radio-button/"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-radio-button/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-select/"

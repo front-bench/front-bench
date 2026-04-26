@@ -99,6 +99,11 @@
       "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://react-bootstrap.github.io/docs/forms/checks-radios"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://react-bootstrap.github.io/docs/forms/select"

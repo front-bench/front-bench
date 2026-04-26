@@ -99,6 +99,11 @@
       "reference": "https://www.heroui.com/docs/components/radio"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/radio-group"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/select"

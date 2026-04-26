@@ -99,6 +99,11 @@
       "reference": "https://ant.design/components/radio"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://ant.design/components/radio"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://ant.design/components/select"

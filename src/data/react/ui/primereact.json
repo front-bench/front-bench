@@ -99,6 +99,11 @@
       "reference": "https://primereact.org/radiobutton/"
     },
     {
+      "key": "radio-group-component",
+      "value": 1,
+      "reference": "https://primereact.org/radiobutton/"
+    },
+    {
       "key": "select-component",
       "value": 1,
       "reference": "https://primereact.org/select/"
