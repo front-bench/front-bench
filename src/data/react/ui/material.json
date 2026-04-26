@@ -124,6 +124,11 @@
       "reference": "https://mui.com/material-ui/react-text-field/"
     },
     {
+      "key": "skeleton-component",
+      "value": 1,
+      "reference": "https://mui.com/material-ui/react-skeleton/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://mui.com/material-ui/react-switch/"

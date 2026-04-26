@@ -124,6 +124,11 @@
       "reference": "https://www.radix-ui.com/themes/docs/components"
     },
     {
+      "key": "skeleton-component",
+      "value": 1,
+      "reference": "https://www.radix-ui.com/themes/docs/components/skeleton"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://www.radix-ui.com/themes/docs/components/switch"

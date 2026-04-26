@@ -124,6 +124,11 @@
       "reference": "https://primereact.org/inputtext/"
     },
     {
+      "key": "skeleton-component",
+      "value": 1,
+      "reference": "https://primereact.org/skeleton/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://primereact.org/inputswitch/"

@@ -124,6 +124,11 @@
       "reference": "https://www.heroui.com/docs/components"
     },
     {
+      "key": "skeleton-component",
+      "value": 1,
+      "reference": "https://www.heroui.com/docs/components/skeleton"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://www.heroui.com/docs/components/switch"

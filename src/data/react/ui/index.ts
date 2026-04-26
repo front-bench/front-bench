@@ -225,6 +225,11 @@ const ui: Match = {
       type: 'feature',
     },
     {
+      key: 'skeleton-component',
+      name: 'Skeleton Component',
+      type: 'feature',
+    },
+    {
       key: 'speed-dial-component',
       name: 'SpeedDial Component',
       type: 'feature',

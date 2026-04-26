@@ -124,6 +124,11 @@
       "reference": "https://react-aria.adobe.com/SearchField"
     },
     {
+      "key": "skeleton-component",
+      "value": 0,
+      "reference": "https://react-aria.adobe.com/"
+    },
+    {
       "key": "switch-component",
       "value": 1,
       "reference": "https://react-aria.adobe.com/Switch"
