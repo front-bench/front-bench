@@ -1,4 +1,4 @@
-import { Layout, Menu } from 'antd';
+import { Layout, Menu, theme } from 'antd';
 import type { ItemType, MenuItemGroupType, MenuItemType } from 'antd/es/menu/interface';
 import { useLocation } from 'wouter';
 import groups from '../data';
@@ -33,16 +33,17 @@ const menuItems = buildMenuItems();
 
 export default function AppLayout({ children }: { children: React.ReactNode }) {
   const [location, navigate] = useLocation();
+  const { token } = theme.useToken();
 
   const selectedKeys = [location];
 
   return (
-    <Layout style={{ minHeight: '100vh' }}>
+    <Layout style={{ minHeight: '100vh', background: token.colorBgLayout }}>
       <Sider
         width={220}
         style={{
-          background: '#fff',
-          borderRight: '1px solid #f0f0f0',
+          background: token.colorBgContainer,
+          borderRight: `1px solid ${token.colorBorderSecondary}`,
           position: 'fixed',
           height: '100vh',
           left: 0,
@@ -55,7 +56,8 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
             padding: '16px 24px',
             fontSize: 18,
             fontWeight: 700,
-            borderBottom: '1px solid #f0f0f0',
+            color: token.colorTextHeading,
+            borderBottom: `1px solid ${token.colorBorderSecondary}`,
           }}
         >
           FrontBench
@@ -68,7 +70,7 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
           style={{ border: 'none' }}
         />
       </Sider>
-      <Layout style={{ marginLeft: 220, minHeight: '100vh' }}>
+      <Layout style={{ marginLeft: 220, minHeight: '100vh', background: token.colorBgLayout }}>
         <Content
           style={{
             height: '100vh',
