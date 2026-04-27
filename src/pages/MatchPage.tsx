@@ -98,18 +98,13 @@ export default function MatchPage({ groupKey, matchKey }: MatchPageProps) {
   ];
 
   return (
-    <>
-      <Typography.Title level={2}>{match.name}</Typography.Title>
-      <Typography.Text type="secondary">{group.name}</Typography.Text>
-      <Table<SpecRow>
-        style={{ marginTop: 20 }}
-        bordered
-        pagination={false}
-        scroll={{ x: 'max-content' }}
-        columns={columns}
-        dataSource={rows}
-        locale={{ emptyText: 'No specs configured for this match yet.' }}
-      />
-    </>
+    <Table<SpecRow>
+      bordered
+      pagination={false}
+      sticky
+      scroll={{ x: 'max-content', y: window.innerHeight }}
+      columns={columns}
+      dataSource={rows}
+    />
   );
 }

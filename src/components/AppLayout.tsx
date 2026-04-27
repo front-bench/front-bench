@@ -68,8 +68,17 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
           style={{ border: 'none' }}
         />
       </Sider>
-      <Layout style={{ marginLeft: 220 }}>
-        <Content style={{ padding: 24, minHeight: '100vh' }}>{children}</Content>
+      <Layout style={{ marginLeft: 220, minHeight: '100vh' }}>
+        <Content
+          style={{
+            height: '100vh',
+            display: 'flex',
+            flexDirection: 'column',
+            overflow: 'hidden',
+          }}
+        >
+          {children}
+        </Content>
       </Layout>
     </Layout>
   );
