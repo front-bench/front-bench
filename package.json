@@ -4,32 +4,29 @@
   "bugs": {
     "url": "https://github.com/guoyunhe/frontbench/issues"
   },
+  "author": {
+    "name": "Guo Yunhe",
+    "email": "i@guoyunhe.me"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guoyunhe/frontbench.git"
   },
   "funding": "https://github.com/sponsors/guoyunhe",
-  "author": {
-    "name": "Guo Yunhe",
-    "email": "i@guoyunhe.me"
-  },
   "type": "module",
   "scripts": {
     "build": "tsc -b && vite build",
     "ci:eslint": "eslint -f json src -o ./.ci/eslint.json",
     "dev": "vite",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check",
     "lint": "eslint .",
-    "lint:fix": "prettier --write . && eslint --fix .",
+    "lint:fix": "oxfmt && eslint --fix .",
     "prepare": "husky",
     "preview": "vite preview",
     "start": "vite",
     "update:npm-downloads": "tsx scripts/update-npm-weekly-downloads.ts"
   },
-  "lint-staged": {
-    "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
-    "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "prettier --write"
-  },
-  "prettier": "prettier-config-ali",
   "dependencies": {
     "@ant-design/icons": "^6.1.1",
     "@guoyunhe/react-media-query": "^1.0.0",
@@ -40,23 +37,25 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
+    "@guoyunhe/oxfmt-config": "^1.0.0",
     "@types/node": "^24.12.2",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",
     "eslint": "^9.39.4",
     "eslint-config-ali": "^16.6.0",
-    "eslint-config-prettier": "^10.1.8",
-    "eslint-plugin-prettier": "^5.5.5",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.5.0",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
-    "prettier": "^3.8.3",
-    "prettier-config-ali": "^1.5.0",
+    "oxfmt": "^0.47.0",
     "tsx": "^4.21.0",
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.59.0",
     "vite": "^8.0.10"
+  },
+  "lint-staged": {
+    "*.{cjs,cts,js,jsx,mjs,mts,ts,tsx,vue}": "eslint --fix",
+    "*.{cjs,css,cts,html,js,json,jsx,less,md,mjs,mts,scss,ts,tsx,vue,yaml,yml}": "oxfmt"
   }
 }
